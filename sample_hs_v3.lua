@@ -32,19 +32,24 @@ cmd:option('-seed',123,'random number generator\'s seed')
 cmd:option('-sample',1,' 0 to use max at each timestep, 1 to sample at each timestep')
 cmd:option('-primetext',"",'used as a prompt to "seed" the state of the LSTM using a given sequence, before we sample.')
 cmd:option('-length',2000,'number of characters to sample')
-cmd:option('-temperature',1,'temperature of sampling')
-cmd:option('-gpuid',0,'which gpu to use. -1 = use CPU')
-cmd:option('-verbose',1,'set to 0 to ONLY print the sampled text, no diagnostics')
-cmd:option('-name',"",'added to the start of the card name section')
-cmd:option('-supertypes',"",'added the start of the supertype section.')
-cmd:option('-types',"",'added to the start of the type section.')
-cmd:option('-loyalty',"",'added to the start of the loyalty section.')
-cmd:option('-subtypes',"",'added to the start of the type section.')
-cmd:option('-rarity',"",'added to the start of the rarity section.')
-cmd:option('-powertoughness',"",'added to the start of the power/toughness section. example: \"&^^/&^^^^\" ')
-cmd:option('-manacost',"",'added to the start of the mana cost section. example: \"{^^UUGGRR}\"')
-cmd:option('-bodytext_prepend',"",'added to the start of the text section.')
-cmd:option('-bodytext_append',"",'added to the end of the text section.')
+cmd:option('-temperature',0.8,'temperature of sampling')
+cmd:option('-gpuid',-1,'which gpu to use. -1 = use CPU')
+cmd:option('-verbose',0,'set to 1 to print diagnostics before the sampled cards.')
+cmd:option('-cardtype',"",'added the start of the type section.')
+cmd:option('-keywords',"",'added to the start of the keywords section.')
+cmd:option('-faction',"",'added to the start of the faction section.')
+cmd:option('-influence',"",'added to the start of the influence section.')
+cmd:option('-strength',"",'added to the start of the strength section.')
+cmd:option('-uniqueness',"",'added to the start of the uniqueness section')
+cmd:option('-advancementcost_baselink',"",'added to the start of the advancement cost section for corp cards, or base link section for runner cards.')
+cmd:option('-agendapoints_memorycost',"",'added to the start of the agenda points section for corp cards or the memory cost section for runner cards.')
+cmd:option('-influencelimit',"",'added to the start of the influence limit section.')
+cmd:option('-decksize',"",'added to the end of the deck size section.')
+cmd:option('-text',"",'added to the end of the text section.')
+cmd:option('-cost',"",'added to the end of the cost section.')
+cmd:option('-title',"",'added to the start of the title section')
+cmd:option('-trashcost',"",'added to the start of the trash cost section')
+cmd:option('-side',"corp",'generate runner cards or corp cards?')
 
 cmd:text()
 
@@ -144,12 +149,11 @@ for i=1, opt.length do
 
     -- forward the rnn for next character
     local lst = protos.rnn:forward{prev_char, unpack(current_state)}
-
-    if not (string.len(opt.bodytext_append) > 0 and barcount == 9 and ivocab[prev_char[1]] == '|') then 
+    
+    if not (string.len(opt.text) > 0 and ivocab[prev_char[1]] == '|') then 
     	current_state = {}
     	for i=1,state_size do table.insert(current_state, lst[i]) end
     end
-
 
     prediction = lst[#lst] -- last element holds the log probabilities
 
@@ -163,37 +167,183 @@ for i=1, opt.length do
     if ivocab[prev_char[1]] == '|' then
 	barcount = barcount + 1
     end
-
-
-    if not (string.len(opt.bodytext_append) > 0 and barcount == 10 and ivocab[prev_char[1]] == '|') then 
+    
+    if not (string.len(opt.text) > 0 and ivocab[prev_char[1]] == '|') then 
     	io.write(ivocab[prev_char[1]])
     end
 
-
-
-
     if ivocab[prev_char[1]] == '|' then
     if barcount == 1 then
-	prependtext = opt.name
+    	if type(tonumber(opt.cardtype)) == "number" then
+    		x = tonumber(opt.cardtype)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.cardtype = newstring
+    	end
+	prependtext = "1" .. opt.cardtype:lower()
     elseif barcount == 2 then
-	prependtext = opt.supertypes
+    	if type(tonumber(opt.keywords)) == "number" then
+    		x = tonumber(opt.keywords)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.keywords = newstring
+    	end
+	prependtext = "2" .. opt.keywords:lower()
     elseif barcount == 3 then
-	prependtext = opt.types
+    	if type(tonumber(opt.faction)) == "number" then
+    		x = tonumber(opt.faction)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.faction = newstring
+    	end
+	prependtext = "3" .. opt.faction:lower()
     elseif barcount == 4 then
-	prependtext = opt.loyalty
+    	if type(tonumber(opt.influence)) == "number" then
+    		x = tonumber(opt.influence)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.influence = newstring
+    	end
+	prependtext = "4" .. opt.influence:lower()
     elseif barcount == 5 then
-	prependtext = opt.subtypes
+    	if type(tonumber(opt.strength)) == "number" then
+    		x = tonumber(opt.strength)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.strength = newstring
+    	end
+	prependtext = "5" .. opt.strength:lower()
     elseif barcount == 6 then
-	prependtext = opt.rarity
+    	if type(tonumber(opt.uniqueness)) == "number" then
+    		x = tonumber(opt.uniqueness)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.uniqueness = newstring
+    	end
+	prependtext = "6" .. opt.uniqueness:lower()
     elseif barcount == 7 then
-	prependtext = opt.powertoughness
+    	if type(tonumber(opt.advancementcost_baselink)) == "number" then
+    		x = tonumber(opt.advancementcost_baselink)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.advancementcost_baselink = newstring
+    	end
+	prependtext = "7" .. opt.advancementcost_baselink:lower()
     elseif barcount == 8 then
-	prependtext = opt.manacost
+    	if type(tonumber(opt.agendapoints_memorycost)) == "number" then
+    		x = tonumber(opt.agendapoints_memorycost)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.agendapoints_memorycost = newstring
+    	end
+	prependtext = "8" .. opt.agendapoints_memorycost:lower()
     elseif barcount == 9 then
-	prependtext = opt.bodytext_prepend
+    	if type(tonumber(opt.influencelimit)) == "number" then
+    		x = tonumber(opt.influencelimit)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.influencelimit = newstring
+    	end
+	prependtext = "9" .. opt.influencelimit:lower()
     elseif barcount == 10 then
-	prependtext = opt.bodytext_append
-    end
+    	if type(tonumber(opt.decksize)) == "number" then
+    		x = tonumber(opt.decksize)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.decksize = newstring
+    	end
+	prependtext = "10" .. opt.decksize:lower()
+    elseif barcount == 11 then
+    	if type(tonumber(opt.text)) == "number" then
+    		x = tonumber(opt.text)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.text = newstring
+    	end
+	prependtext = "11" .. opt.text:lower()
+    elseif barcount == 12 then
+    	if type(tonumber(opt.cost)) == "number" then
+    		x = tonumber(opt.cost)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.cost = newstring
+    	end
+	prependtext = "12" .. opt.cost:lower()
+    elseif barcount == 13 then
+    	if type(tonumber(opt.title)) == "number" then
+    		x = tonumber(opt.title)
+    		newstring = "&"
+    		for i=0,x do
+    			if i ~= 0 then
+    				newstring = newstring .. "^"
+    			end
+    		end
+    		opt.title = newstring
+    	end
+	prependtext = "13" .. opt.title:lower()
+    elseif opt.side == "corp" then
+    	if barcount == 14 then
+    		if type(tonumber(opt.trashcost)) == "number" then
+    			x = tonumber(opt.trashcost)
+    			newstring = "&"
+    			for i=0,x do
+    				if i ~= 0 then
+    					newstring = newstring .. "^"
+    				end
+    			end
+    			opt.trashcost = newstring
+    		end
+		prependtext = "14" .. opt.trashcost:lower()
+    	end
+    end	
     end
 
 
@@ -213,4 +363,3 @@ for i=1, opt.length do
 
 end
 io.write('\n') io.flush()
-
