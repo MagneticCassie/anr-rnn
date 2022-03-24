@@ -1,0 +1,30 @@
+These files have manually had the following cards from the Terminal Directive Campaign removed:
+
+Evidence Collection
+Evidence Collection 2
+Evidence Collection 3
+Evidence Collection 4
+Investigator Inez Delgado A
+Investigator Inez Delgado A 2
+Lt. Todachine
+Lt. Todachine 2
+Trojan
+Net Watchlist
+Machicolation A
+Machicolation B
+Corporate Oversight A
+Corporate Oversight B
+Investigator Inez Delgado
+Investigator Inez Delgado 2
+Investigator Inez Delgado 3
+Investigator Inez Delgado 4
+Surveillance Network Key
+Surveillance Network Key 2
+BMI Buffer
+BMI Buffer 2
+Shadow Team
+Security Leak
+The Masque A
+The Masque B
+Sneakdoor Prime A
+Sneakdoor Prime B

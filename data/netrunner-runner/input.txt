@@ -1,0 +1,1824 @@
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11whenever you install a virus program, the corp trashes the top card of r&d.|12|13noise: hacker extraordinaire|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11add &^ card (or up to &^^ virus cards) from your heap to your grip.|12&^^|13déjà vu|
+
+|1event|2run, sabotage|3anarch|4&^^|5|6|7|8|9|10|11run hq or r&d.\{C}: trash the card you are accessing.|12&^^|13demolition run|
+
+|1event|2run|3anarch|4&^|5|6|7|8|9|10|11place {C}^^^^^^^^^ on this event, then run any server. during that run, hosted credits are considered to be in your credit pool. when the run ends, suffer &^ brain damage, which cannot be prevented.|12&|13stimhack|
+
+|1hardware|2chip|3anarch|4&^|5|6|7|8|9|10|11{R}^\use this credit to pay for using icebreakers or for installing virus programs.|12&^^|13cyberfeeder|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^^\whenever you install a virus program, place &^ virus counter on that program.\limit &^ console per player.|12&^^^|13grimoire|
+
+|1program|2icebreaker, fracter|3anarch|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^: +&^ strength.|12&^^|13corroder|
+
+|1program|2virus|3anarch|4&^|5|6|7|8&^|9|10|11whenever you make a successful run on a central server, place &^ virus counter on @.\hosted virus counter: rezzed piece of ice currently being encountered has -&^ strength until the end of the encounter.|12&^|13datasucker|
+
+|1program|2daemon|3anarch|4&^^|5|6|7|8&^|9|10|11@ can host up to {M}^^^ of non-icebreaker programs.\the memory costs of hosted programs do not count against your memory limit.\{O}, {C}^: search your stack for a virus program, reveal it, and add it to your grip. shuffle your stack.|12&^^|13djinn|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11whenever you make a successful run on r&d, place &^ virus counter on this program.\whenever you breach r&d, choose a number less than the number of hosted virus counters. access that many additional cards.|12&^^^|13medium|
+
+|1program|2icebreaker, killer|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.|12&^^^|13mimic|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11install @ only on a rezzed piece of ice.\host ice has -&^ strength for each virus counter on @ and is trashed if its strength is & or less.\when your turn begins, place &^ virus counter on @.|12&^^|13parasite|
+
+|1program|2icebreaker, ai|3anarch|4&^^|5&^|6|7|8&^|9|10|11{C}^^^: break &^ subroutine on a piece of ice with & or less strength.\{C}^: the ice you are encountering gets -&^ strength for the remainder of this encounter.\{C}^: +&^ strength.|12&^|13wyrm|
+
+|1program|2icebreaker, decoder|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}: break &^ code gate subroutine.|12&^^^^^|13yog.0|
+
+|1resource|2virtual|3anarch|4&^^^|5|6true|7|8|9|10|11while you are encountering a piece of ice, it gets -&^ strength.|12&^^^|13ice carver|
+
+|1resource|2location, seedy|3anarch|4&^^^|5|6true|7|8|9|10|11when your turn begins, draw &^^ cards and lose {O}.|12&^^^|13wyldside|
+
+|1identity|2cyborg|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time you make a successful run on hq each turn, gain {C}^^.|12|13gabriel santiago: consummate professional|
+
+|1event|2run, sabotage|3criminal|4&^^^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, you may force the corp to lose up to {C}^^^^^, then you gain {C}^^ for each credit lost and take &^^ tags.|12&|13account siphon|
+
+|1event|2job|3criminal|4&^|5|6|7|8|9|10|11gain {C}^^^.|12&|13easy mark|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11choose &^ unrezzed piece of ice. the corp may rez that ice. if they do not, they trash it.|12&^|13forged activation orders|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run any server. the first time this run you encounter a piece of ice, bypass it.|12&^^|13inside job|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11search your stack for an icebreaker, reveal it, and add it to your grip. shuffle your stack.|12&^|13special order|
+
+|1hardware|2|3criminal|4&^|5|6|7|8|9|10|11{O}, {C}^: expose &^ card. use this ability only if you have made a successful run on hq this turn.|12&^|13lemuria codecracker|
+
+|1hardware|2console|3criminal|4&^^^|5|6true|7|8|9|10|11+{M}^\gain {C}^ whenever you make a successful run.\limit &^ console per player.|12&^^^|13desperado|
+
+|1program|2icebreaker, fracter|3criminal|4&^|5&^|6|7|8&^|9|10|11{C}^^: break &^ barrier subroutine.\{C}^^: +&^^^ strength.|12&^^^|13aurora|
+
+|1program|2icebreaker, killer|3criminal|4&^|5&^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength.\when you install this program, choose &^ installed piece of ice.\whenever you encounter the chosen ice, you may pay {C}^ for each subroutine it has. if you do, bypass that ice.|12&^^^^^^^^^|13femme fatale|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^^: +&^^^^^ strength.|12&^^^^|13ninja|
+
+|1program|2|3criminal|4&^^^|5|6|7|8&^^|9|10|11{O}: run archives. if that run would be declared successful, change the attacked server to hq for the remainder of that run.|12&^^^^|13sneakdoor beta|
+
+|1resource|2job|3criminal|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^ on it. when it is empty, trash it.\whenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource.|12&^|13bank job|
+
+|1resource|2location|3criminal|4&^^|5|6|7|8|9|10|11{R}^^\use these credits to pay for removing tags.\{T}: prevent up to &^^^ meat damage.|12&^^|13crash space|
+
+|1resource|2connection, seedy|3criminal|4&^^|5|6|7|8|9|10|11{O}, forfeit &^ agenda: gain {C}^^^^^^^^^.|12&|13data dealer|
+
+|1resource|2connection|3criminal|4&^^|5|6|7|8|9|10|11{T}: avoid receiving &^ tag.|12&^|13decoy|
+
+|1identity|2natural|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11lower the install cost of the first program or piece of hardware you install each turn by &^.|12|13kate "mac" mccaffrey: digital tinker|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11draw &^^^ cards.|12&|13diesel|
+
+|1event|2mod|3shaper|4&^^|5|6|7|8|9|10|11install a program or piece of hardware, lowering the install cost by &^^^.|12&|13modded|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run r&d. if successful, access &^^ additional cards when you breach r&d.|12&^^|13the maker's eye|
+
+|1event|2mod|3shaper|4&^^^^|5|6|7|8|9|10|11choose a piece of ice. that ice gains sentry, code gate, and barrier until the end of the turn.|12&|13tinkering|
+
+|1hardware|2chip|3shaper|4&^|5|6|7|8|9|10|11+{M}^|12&^|13akamatsu mem chip|
+
+|1hardware|2link|3shaper|4&^|5|6|7|8|9|10|11+{L}^\when @ is installed, you may search your stack for another copy of @ and install it by paying its install cost. shuffle your stack.|12&^^|13rabbit hole|
+
+|1hardware|2mod|3shaper|4&^^|5|6|7|8|9|10|11install @ only on an icebreaker.\host icebreaker has +&^ strength.|12&^^|13the personal touch|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11+{M}^^ +{L}^^\{R}^^\use these credits to pay for using icebreakers.\limit &^ console per player.|12&^^^^^^^^^|13the toolbox|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^^^|6|7|8&^^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^: +&^ strength for the remainder of this run.|12&^^^^^|13battering ram|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength for the remainder of this run.|12&^^^^|13gordian blade|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^^|9|10|11{O}: gain {C}^^.|12&^^^^^|13magnum opus|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11the first time each turn you would take net damage, you may pay {C}^ to prevent &^ net damage.|12&^^|13net shield|
+
+|1program|2icebreaker, killer|3shaper|4&^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength for the remainder of this run.|12&^^^|13pipeline|
+
+|1resource|2connection, location|3shaper|4&^^|5|6true|7|8|9|10|11when your turn begins, you may trash &^ of your other installed cards. if you do, gain {C}^^^.|12&^|13aesop's pawnshop|
+
+|1resource|2remote|3shaper|4&^|5|6|7|8|9|10|11{T}: prevent an installed program or an installed piece of hardware from being trashed.|12&|13sacrificial construct|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^ or expose &^ card.|12&|13infiltration|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^^^^^^^^.|12&^^^^^|13sure gamble|
+
+|1program|2icebreaker, ai, virus|3neutral|4&|5&|6|7|8&^|9|10|11{C}^: break &^ subroutine.\{C}^: +&^ strength.\{O}: place &^ virus counter on this program.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove &^ hosted virus counter or trash this program.|12&^^^^^|13crypsis|
+
+|1resource|2link|3neutral|4&|5|6|7|8|9|10|11+{L}^|12&^|13access to globalsec|
+
+|1resource|2job|3neutral|4&|5|6|7|8|9|10|11place {C}^^ from the bank on @ when it is installed. when there are no credits left on @, trash it.\{O}: take {C}^^ from @.|12&^|13armitage codebusting|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11{R}^^^\use these credits to trash cards.|12|13whizzard: master gamer|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^, {R}^^\use these credits to pay for using icebreakers.\whenever there is a successful trace during a run, suffer &^ brain damage.\limit &^ console per player.|12&^^^^|13spinal modem|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\hosted virus counter: trash the card you are accessing. use this ability only once per turn.|12&^^|13imp|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^^|5&^^^^^|6|7|8&^^|9|10|11{C}^: break any number of barrier subroutines.|12&^^^^^^^^|13morning star|
+
+|1hardware|2chip|3criminal|4&^^|5|6|7|8|9|10|11{T}: choose a piece of ice. the corp must pay {C}^^ as an additional cost to rez that ice until the end of the turn.|12&|13cortez chip|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^^: break &^ code gate subroutine.\{C}^^: +&^^^ strength.|12&^^^|13peacock|
+
+|1program|2icebreaker, decoder, cloud|3shaper|4&^^|5&^|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\{C}^: break &^ code gate subroutine.\{C}^: +&^ strength.|12&^|13zu.13 key master|
+
+|1resource|2connection, link, virtual|3shaper|4&^^|5|6true|7|8|9|10|11+{L}^\{T}: choose an icebreaker. that icebreaker has +&^^ strength until the end of the turn.|12&^^|13the helpful ai|
+
+|1hardware|2gear|3neutral|4&|5|6|7|8|9|10|11place &^^^^ power counters on @ when it is installed. when there are no power counters left on @, trash it.\hosted power counter: prevent &^ meat damage.|12&^^^|13plascrete carapace|
+
+|1event|2run, sabotage|3anarch|4&^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, you may spend {C}X. if you do, the corp loses {C}X. if you spent credits, take &^ tag.|12&|13vamp|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^ onto it. when it is empty, trash it.\{O}: take {C}^^^^ from this resource.|12&^^^^^^|13liberated account|
+
+|1event|2|3criminal|4&^^^|5|6|7|8|9|10|11expose up to &^^ cards.|12&^^|13satellite uplink|
+
+|1hardware|2mod|3criminal|4&^^|5|6|7|8|9|10|11whenever you break a subroutine on a piece of ice, you may pay {C}^ to break &^ subroutine on that ice.|12&^^|13e3 feedback implants|
+
+|1resource|2connection, link|3criminal|4&^|5|6|7|8|9|10|11{R}^\use this credit during traces.\gain {C}^ whenever the corp rezzes a piece of ice.|12&^^|13compromised employee|
+
+|1event|2|3shaper|4&^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\add @ to your score area as an agenda worth &^ agenda point.|12&^|13notoriety|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^: +&^ strength.\whenever you use this program to break a subroutine, this program gets +&^ strength for the remainder of this run.|12&^^^^|13snowball|
+
+|1hardware|2chip, link|3neutral|4&|5|6|7|8|9|10|11+{M}^, +{L}^|12&^^^|13dyson mem chip|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run on hq, place &^ virus counter on this program.\whenever you breach hq, choose a number less than the number of hosted virus counters. access that many additional cards.|12&^^^|13nerve agent|
+
+|1resource|2connection|3anarch|4&^^^|5|6true|7|8|9|10|11when your turn begins, you may gain {O}. if you do, take &^ tag when this turn ends.|12&^|13joshua b.|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on hq this turn.\derez &^ installed piece of ice.|12&|13emergency shutdown|
+
+|1hardware|2gear|3criminal|4&^|5|6|7|8|9|10|11the first time each turn you would take meat damage, prevent &^ meat damage.|12&^|13muresh bodysuit|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^|9|10|11once per run, you may expose an unrezzed piece of ice when you approach it. you may then jack out.|12&^^^|13snitch|
+
+|1identity|2g-mod|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11+{M}^|12|13chaos theory: wünderkind|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11search either your stack or your heap for &^ program.  install that program, ignoring all costs. when your turn ends, if that program has not been uninstalled, add it to the top of your stack.|12&^^^|13test run|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11@ can host a single non-ai icebreaker. the memory cost of the hosted icebreaker does not count against your memory limit.\hosted icebreaker has +&^^ strength.\limit &^ console per player.|12&^^^^^|13dinosaurus|
+
+|1resource|2location|3shaper|4&^^^^|5|6|7|8|9|10|11{O}: host a program or piece of hardware from your grip on @ and place power counters on it equal to its install cost.\{C}^: remove &^ power counter from a hosted card.\when your turn begins, remove &^ power counter from a hosted card.\when there are no power counters left on a hosted card, install it, ignoring all costs.|12&^|13personal workshop|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11your maximum hand size is increased by &^^.|12&^^|13public sympathy|
+
+|1program|2|3anarch|4&^|5|6|7|8&^|9|10|11{T}: reduce the base trace strength of a trace to &.|12&^|13disrupter|
+
+|1program|2icebreaker, decoder|3anarch|4&^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ code gate subroutines.\{C}^: +&^ strength.|12&^^^^^|13force of nature|
+
+|1resource|2connection, seedy|3anarch|4&^|5|6|7|8|9|10|11{R}^^ \you can spend hosted credits to pay trash costs.|12&^^|13scrubber|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\once per turn, you may immediately make another run when a successful run ends.\limit &^ console per player.|12&^^^|13doppelgänger|
+
+|1program|2|3criminal|4&^|5|6|7|8&^|9|10|11{T}: derez &^ piece of ice you fully broke during this encounter.|12&^|13crescentus|
+
+|1program|2icebreaker|3shaper|4&^|5&^^^^^^^^^^|6|7|8&^|9|10|11{T}: break any number of ap subroutines.\{T}: prevent any amount of net damage.|12&^^^|13deus x|
+
+|1resource|2|3shaper|4&^^|5|6|7|8|9|10|11{O}, {T}: gain {O}{O}.|12&|13all-nighter|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11{R}^^\use these credits to install hardware.|12&^^^|13inside man|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11when your turn begins, gain {C}^ if you have at least {L}^^.|12&^^|13underworld contact|
+
+|1event|2|3anarch|4&^|5|6|7|8|9|10|11play only if you placed at least &^ virus counter on a program this turn.\place &^^ virus counters on that program.|12&|13surge|
+
+|1resource|2virtual|3anarch|4&^^|5|6true|7|8|9|10|11the rez cost of each piece of ice is increased by {C}^.|12&^^^|13xanadu|
+
+|1identity|2natural|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11you draw a starting hand of &^^^^^^^^^ cards.|12|13andromeda: dispossessed ristie|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11remove &^ tag. then, you may pay {C}^ to add this event to your grip.|12&|13networking|
+
+|1hardware|2|3criminal|4&^^|5|6|7|8|9|10|11whenever you breach hq, access &^ additional card.|12&^^^^|13hq interface|
+
+|1program|2virus|3criminal|4&^^|5|6|7|8&^|9|10|11{R}X\use these credits during runs on hq. x is the number of virus counters on @.\whenever you make a successful run on hq, place &^ virus counter on @.|12&^^|13pheromones|
+
+|1event|2|3shaper|4&^|5|6|7|8|9|10|11draw &^^^^^ cards.|12&^^^|13quality time|
+
+|1hardware|2|3shaper|4&^^|5|6|7|8|9|10|11whenever you install a piece of hardware (including @), you may search your stack for another copy of that hardware, reveal it, and add it your grip. shuffle your stack.|12&^^|13replicator|
+
+|1program|2icebreaker, killer, cloud|3shaper|4&^|5&^^|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\{C}^^: break &^ sentry subroutine.\{C}^: +&^ strength.|12&^^^^^|13creeper|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11play only if you stole an agenda this turn.\choose a server. the corp trashes &^ piece of ice protecting that server.|12&^^^|13kraken|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11you cannot use @ more than once per turn.\{O}: place {C}^^^ from the bank on @.\{O}: take all credits from @.|12&^^|13kati jones|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, you may install &^ program from your heap, ignoring all costs.|12&^^^|13retrieval run|
+
+|1program|2icebreaker, ai, virus|3anarch|4&^^^|5X|6|7|8&^|9|10|11{C}^^: break &^ subroutine.\x is equal to the number of hosted virus counters.\when your turn begins, you may pay {C}^ to place &^ virus counter on this program.|12&^^^|13darwin|
+
+|1resource|2virtual, sabotage|3anarch|4&^|5|6|7|8|9|10|11install only if you made a successful run on a central server this turn.\if you are tagged, @ gains "{O}: the corp trashes the top card of r&d."|12&|13data leak reversal|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^^|6|7|8&^|9|10|11{C}: break &^ sentry subroutine.\{C}^: +&^ strength.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.|12&|13faerie|
+
+|1resource|2connection|3criminal|4&^^|5|6true|7|8|9|10|11{O}: draw &^^ cards. when you do, add &^ of those cards to the bottom of your stack.|12&^^^|13mr. li|
+
+|1event|2run|3shaper|4&^^^|5|6|7|8|9|10|11run r&d. if successful, instead of breaching r&d, you may look at the top &^^^^^ cards of r&d and arrange them in any order.|12&|13indexing|
+
+|1hardware|2|3shaper|4&^^|5|6|7|8|9|10|11whenever you breach r&d, access &^ additional card.|12&^^^^|13r&d interface|
+
+|1program|2virus|3shaper|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run on r&d, place &^ virus counter on @.\if there are at least &^^^ virus counters on @, it gains "when your turn begins, you may look at the top card of r&d."|12&^|13deep thought|
+
+|1resource|2location, government|3neutral|4&|5|6true|7|8|9|10|11{C}^^: avoid &^ tag.\trash @ when you steal an agenda.|12&^|13new angeles city hall|
+
+|1identity|2cyborg|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^|1045|11the first time each turn you encounter a piece of ice, it gains code gate for the remainder of this run.|12|13rielle "kit" peddler: transhuman|
+
+|1identity|2natural|3shaper|4&|5|6|7&|8|9&^|1045|11the first copy of each program in this deck does not count against your influence limit.|12|13the professor: keeper of knowledge|
+
+|1identity|2natural|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11whenever you install a program from your heap, draw &^ card.|12|13exile: streethawk|
+
+|1event|2run|3shaper|4&^^^^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, rearrange any number of ice protecting all servers. |12&^^^|13escher|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run any server. if successful, instead of breaching that server, remove up to &^^^ advancement counters from &^ card in the root of or protecting the attacked server.|12&^|13exploratory romp|
+
+|1event|2job|3shaper|4&^|5|6|7|8|9|10|11trash up to &^^^^^ programs from your grip. gain {C}^^ for each program trashed.|12&|13freelance coding contract|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11trash &^ installed program. if you do, install &^ program from your grip or heap, paying {C}X less. x is equal to the install cost of the program you trashed.|12&|13scavenge|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11shuffle your grip and heap into your stack. draw &^^^^^ cards. remove @ from the game instead of trashing it.|12&^^^^^|13levy ar lab access|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^^^\when you install @, install up to &^^^ programs from your grip, lowering the install cost of each by {C}^^^^.\trash a program from your grip: prevent &^ brain or net damage.\limit &^ console per player.|12&^^^^^^^^^^^^^^^^^^|13monolith|
+
+|1hardware|2gear|3shaper|4&^|5|6|7|8|9|10|11{C}^^^: prevent &^ net damage.\{T}: prevent up to &^^ brain damage.|12&^^|13feedback filter|
+
+|1hardware|2chip|3shaper|4&^^|5|6|7|8|9|10|11{T}: install a program from your heap (paying the install cost).|12&^|13clone chip|
+
+|1hardware|2gear|3shaper|4&^^^|5|6|7|8|9|10|11@ can host a single program of {M}^ or less. the memory cost of the hosted program does not count against your memory limit.\{R}^\use this credit to pay for using the hosted program.|12&^^^|13omni-drive|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&|6|7|8&^|9|10|11when you install this program, you may pay {C}X to place x power counters on it.\this program gets +&^ strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\{C}^: break &^ subroutine.|12&^^^|13atman|
+
+|1program|2stealth|3shaper|4&^^|5|6|7|8&^|9|10|11{R}^\use this credit to pay for using icebreakers.|12&^|13cloak|
+
+|1program|2icebreaker, killer|3shaper|4&^^|5&|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^: +&^^^^^ strength. use this ability only by spending a credit from a stealth card.|12&^^^|13dagger|
+
+|1program|2virus|3shaper|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run on r&d, place &^ virus counter on @.\if there are at least &^^^ virus counters on @, the advancement requirement of all agendas is increased by &^.|12&^^|13chakana|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^^^|6|7|8&^|9|10|11when you install this program, choose a server. use this program only during runs on the chosen server.\{C}^: break &^ code gate subroutine.\{C}^: +&^ strength.|12&^^|13cyber-cypher|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11{R}^^ \you can spend hosted credits to pay trash costs of assets.|12&|13paricia|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^^|9|10|11{C}^^, {T}: search your stack for a program. install it.|12&|13self-modifying code|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11{R}^^\use these credits to install programs (you cannot use @ to install a program that trashes @).|12&^^|13sahasrara|
+
+|1program|2icebreaker, fracter|3shaper|4&^|5&^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^^: +&^ strength for the remainder of this run.|12&|13inti|
+
+|1resource|2connection|3shaper|4&^^|5|6|7|8|9|10|11{O}: gain {C}^ and draw &^ card.|12&^^^^^|13professional contacts|
+
+|1resource|2link|3shaper|4&^^|5|6|7|8|9|10|11+{L}^\your maximum hand size is increased by &^.|12&^^^|13borrowed satellite|
+
+|1resource|2virtual|3shaper|4&^|5|6|7|8|9|10|11whenever the corp rezzes a piece of ice, place {C}^ on @.\you may use credits on @ to install programs.|12&|13ice analyzer|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11run any server. when that run ends, if it was successful, gain {C}^^^^^.|12&^^|13dirty laundry|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^ onto it. when it is empty, trash it.\when your turn begins, take {C}^^ from this resource.|12&^^^|13daily casts|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11{O}, {O}, {T}: play an event from your heap (paying its play cost).|12&|13same old thing|
+
+|1resource|2connection|3neutral|4&^^|5|6true|7|8|9|10|11the advancement requirement of all agendas is increased by &^.\as an additional cost to steal an agenda, you must pay {C}^^^.\trash @ when an agenda is scored or stolen.|12&^^|13the source|
+
+|1event|2double|3anarch|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\forfeit an agenda. if you do, give the corp &^ bad publicity.|12&^|13frame job|
+
+|1program|2caïssa|3anarch|4&^|5|6|7|8&|9|10|11{O}: host this program on the outermost piece of ice protecting a central server.\whenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. if you cannot, trash this program and install &^ other caïssa program from your grip or heap, ignoring all costs.|12&|13pawn|
+
+|1program|2caïssa|3anarch|4&^^|5|6|7|8&^|9|10|11{O}: host @ on a piece of ice not hosting a caïssa. if already hosted, @ can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server.\the rez cost of each piece of ice protecting this server is increased by &^^.|12&^^|13rook|
+
+|1event|2double|3criminal|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\search your stack for a connection, reveal it, and add it to your grip. you may install that connection (paying its install cost). shuffle your stack.|12&^|13hostage|
+
+|1program|2virus|3criminal|4&^|5|6|7|8&^|9|10|11whenever the corp spends a {O} to draw &^ card or gain {C}^ (not through a card ability), place &^ virus counter on @.\{O}, {T}: gain {C}^ for each virus counter on @.|12&^|13gorman drip v1|
+
+|1hardware|2chip, stealth|3shaper|4&^^^|5|6|7|8|9|10|11{R}^\use this credit to pay for using decoders.|12&^|13lockpick|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11whenever you pass a piece of unrezzed ice, you may trash @. if you do, the corp must rez that ice or add it to hq.|12&^|13false echo|
+
+|1resource|2|3shaper|4&^|5|6|7|8|9|10|11when your turn begins, you may look at the top card of your stack.|12&|13motivation|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11the first time you make a successful run each turn, draw &^ card.\the first time you make an unsuccessful run each turn, take &^ tag.|12&^^|13john masanori|
+
+|1program|2caïssa|3anarch|4&^^|5|6|7|8&^|9|10|11{O}: host @ on a piece of ice not hosting a caïssa. if already hosted, @ can be hosted only on ice protecting a central server if @ is on ice protecting a remote server, or on ice protecting a remote server if @ is on ice protecting a central server.\host ice has -&^^ strength.|12&|13bishop|
+
+|1program|2daemon|3anarch|4&^|5|6true|7|8&|9|10|11@ can host any number of programs.\whenever you install a program on @, gain {C}^.|12&|13scheherazade|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when your turn begins, gain {C}^^ and lose {O}.|12&^^^^^|13hard at work|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11make a run. you may jack out when you encounter the first piece of ice.|12&^|13recon|
+
+|1program|2|3criminal|4&^|5|6|7|8&^|9|10|11whenever you pass a piece of ice, you may trash @. if you do, choose another rezzed copy of that piece of ice protecting any server. the run continues as if you had just passed the chosen piece of ice (you are now running from the new position).|12&^|13copycat|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^^|6|7|8&^|9|10|11{C}^^^: break up to &^^^ code gate subroutines.\{C}^^^: +&^^^^^ strength.|12&^^^^^^|13leviathan|
+
+|1event|2double|3shaper|4&^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\reveal the top card of your stack. you may install that card, lowering the install cost by {C}, if able; otherwise, trash it.|12&^^^|13eureka!|
+
+|1hardware|2|3shaper|4&^|5|6|7|8|9|10|11whenever you make a successful run on archives, instead of breaching archives, you may add &^ faceup card from archives to the top of r&d.|12&|13record reconstructor|
+
+|1hardware|2gear|3neutral|4&|5|6|7|8|9|10|11{R}^ \you can spend hosted credits to play events.|12&^^|13prepaid voicepad|
+
+|1identity|2cyborg, g-mod|3anarch|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first piece of ice the corp rezzes each turn costs {C}^ more to rez.|12|13reina roja: freedom fighter|
+
+|1hardware|2console|3anarch|4&^|5|6true|7|8|9|10|11+{M}^^^\use the mu on @ only for caïssa programs.\whenever you install a caïssa program, you may trigger its {O} ability without spending {O}.\limit &^ console per player.|12&^^|13deep red|
+
+|1program|2icebreaker, ai, caïssa|3anarch|4&^^|5&^^^^^^^|6|7|8&^|9|10|11{C}^^: break &^ subroutine on host ice.\{O}: host this program on a piece of ice that is not hosting a caïssa and is not directly inward or outward from this program's current host ice.|12&^^|13knight|
+
+|1event|2double, run|3criminal|4&^^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\make a run. during this run, the corp must pay {C}X as an additional cost to rez each piece of ice, where x is the rez cost of that ice.|12&^^^^|13running interference|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^|9|10|11{O}: run hq. if successful, instead of breaching hq, you may reveal all cards in hq.|12&^|13expert schedule analyzer|
+
+|1resource|2virtual|3criminal|4&^|5|6|7|8|9|10|11when your turn ends, gain {C}^ if you made a successful run this turn; otherwise, trash @.|12&^^|13grifter|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^^|5&^^^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength.|12&^^^^^^^^^|13torch|
+
+|1resource|2connection, virtual|3shaper|4&^^^^|5|6true|7|8|9|10|11when your turn begins, reveal the top card of r&d. the corp may draw that card.|12&^^^|13woman in the red dress|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11whenever the corp takes bad publicity, breach hq. you cannot access cards in the root of hq during this breach.\{T}: expose &^ card.|12&^^|13raymond flint|
+
+|1program|2|3anarch|4&^^^|5|6|7|8&^^|9|10|11{O}: run r&d. if successful, instead of breaching r&d, look at the top &^^^ cards of r&d. trash &^ of those cards, then the corp shuffles r&d.\|12&^^^^|13keyhole|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when the corp turn begins, take &^ tag if you have no tags.\when your turn begins, give the corp &^ bad publicity if he or she has no bad publicity.|12&^|13activist support|
+
+|1event|2double|3criminal|4&^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\remove up to &^^ tags and draw &^^^ cards.|12&^^|13lawyer up|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on hq this turn.\prevent all damage until the beginning of your next turn unless the corp takes &^^ bad publicity.|12&^|13leverage|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^^|6|7|8&^^|9|10|11{C}^: break &^ sentry subroutine.\{C}^: +&^ strength.|12&^^^^^^^|13garrote|
+
+|1hardware|2chip|3shaper|4&^|5|6|7|8|9|10|11whenever you install an icebreaker, that icebreaker has +&^ strength until the end of the turn.|12&^|13llds processor|
+
+|1program|2icebreaker|3shaper|4&^|5&^^^|6|7|8&^|9|10|11{T}: break any number of destroyer subroutines.\{C}^: +&^^ strength.|12&^|13sharpshooter|
+
+|1hardware|2|3shaper|4&^^^|5|6true|7|8|9|10|11{O}: trash any number of cards from your grip. for each trashed card of which you have another copy installed, draw &^ card.|12&^^|13capstone|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11when your turn begins, lose {O}.\ignore any additional costs on each double event you play.|12&^|13starlight crusade funding|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\access &^ installed card (non-ice).|12&|13quest completed|
+
+|1program|2virus|3anarch|4&^^^^|5|6|7|8&^|9|10|11whenever you make a successful run, place &^ virus counter on @.\{O}, &^^ hosted virus counters: the corp trashes &^ card from hq.|12&^^^|13hemorrhage|
+
+|1resource|2connection|3anarch|4&^^^|5|6true|7|8|9|10|11whenever a gray ops or black ops operation is trashed after resolving, you may give the corp &^ bad publicity and take &^ tag.\{T}: draw &^ card for each bad publicity the corp has.|12&^^|13tallie perrault|
+
+|1event|2double|3criminal|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\reveal all cards in hq.|12&^^^^|13executive wiretaps|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^^\whenever you expose a card, the corp must rez it by paying its rez cost, if able.\limit &^ console per player.|12&^^^^^^^^^^^|13blackguard|
+
+|1hardware|2chip|3shaper|4&^^|5|6|7|8|9|10|11+{M}^^|12&^^^^|13cybersolutions mem chip|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&^|6|7|8&^|9|10|11{C}^: break &^ subroutine.\{C}^: +&^ strength.\this program can only interface with the outermost piece of ice protecting a server.|12&^^^^^^^|13alpha|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&^|6|7|8&^|9|10|11{C}^: break &^ subroutine.\{C}^: +&^ strength.\this program can only interface with the innermost piece of ice protecting a server.|12&^^^^^^^|13omega|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11play only if the corp has at least &^ bad publicity.\make a run. the corp cannot rez ice for the duration of this run.|12&^|13blackmail|
+
+|1event|2double, run|3anarch|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\run a remote server. if successful, instead of breaching that server, trash all cards installed in the root of that server.|12&^^^^|13singularity|
+
+|1event|2double|3anarch|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\place up to &^^^ advancement counters on &^ unrezzed card in the root of a remote server. gain {C}^^ for each counter placed this way. you cannot access that card for the remainder of the turn.|12&|13queen's gambit|
+
+|1hardware|2chip, stealth|3anarch|4&^^^|5|6|7|8|9|10|11{R}^\use this credit to pay for using fracters.|12&^|13dyson fractal generator|
+
+|1hardware|2chip, stealth|3criminal|4&^^^|5|6|7|8|9|10|11{R}^\use this credit to pay for using killers.|12&^|13silencer|
+
+|1program|2|3criminal|4&^^^|5|6|7|8&^|9|10|11you cannot use @ more than once each turn.\{C}^^: install a program from your grip, paying the install cost.|12&|13savoir-faire|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11{T}: prevent another installed resource from being trashed.\{T}: gain {C}^^.|12&|13fall guy|
+
+|1event|2double|3shaper|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\gain {C}^^. gain an additional {C}^ for each double event in your heap.|12&|13power nap|
+
+|1program|2|3shaper|4&^^^^|5|6|7|8&^^|9|10|11{O}: choose a rezzed piece of ice. that ice gains sentry, code gate or barrier until the end of the next run this turn.|12&^^^|13paintbrush|
+
+|1event|2double|3neutral|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\gain {C}^^^^^^^^^.|12&^^^|13lucky find|
+
+|1identity|2natural|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^|1045|11when your turn begins, gain {C}^^ if the corp has more scored agenda points than you.|12|13iain stirling: retired spook|
+
+|1identity|2clone|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^^^|1045|11the first time each turn you play a run event, gain {C}^.|12|13ken "express" tenma: disappeared clone|
+
+|1identity|2natural|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11the first time you make a successful run on hq each turn, you may expose &^ card.|12|13silhouette: stealth operative|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11gain {C}^ for each installed connection resource.|12&|13calling in favors|
+
+|1event|2priority, run|3criminal|4&^^|5|6|7|8|9|10|11play only as your first click.\gain {O}. run any server.|12&^|13early bird|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11look at the top &^^^^ cards of your stack and add &^ of those cards to your grip. shuffle your stack.|12&^|13express delivery|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run hq. the first &^^ times this run you encounter a piece of ice, bypass that ice. if successful, you cannot breach hq.|12&^^|13feint|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11run hq. if successful, access &^^ additional cards when you breach hq.|12&^^|13legwork|
+
+|1event|2double|3criminal|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\search your stack for a run event and play that run event (paying its play cost), ignoring any additional costs. shuffle your stack.|12&^^|13planned assault|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\your maximum hand size is increased by &^.\whenever the corp scores an agenda, you may search your stack for a card and add it to your grip. shuffle your stack.\limit &^ console per player.|12&^^^^|13logos|
+
+|1hardware|2|3criminal|4&^^|5|6|7|8|9|10|11{R}^\use this credit to play run events.|12&^|13public terminal|
+
+|1hardware|2weapon|3criminal|4&^^^|5|6|7|8|9|10|11use this hardware only if you have made a successful run on hq this turn.\{O}{O}: trash &^ rezzed bioroid, clone, executive, or sysop in the root of a remote server.|12&^|13unregistered s&w '35|
+
+|1hardware|2|3criminal|4&^|5|6|7|8|9|10|11{O}: draw &^ card from the bottom of your stack.|12&^^|13window|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^^^ strength.\this program cannot interface with ice protecting a remote server.|12&^^^|13alias|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^^: break up to &^^^ barrier subroutines.\{C}^^: +&^^^^ strength.\this program cannot interface with ice protecting a remote server.|12&^^|13breach|
+
+|1program|2|3criminal|4&^|5|6|7|8&^|9|10|11install only if you made a successful run on hq this turn.\whenever the corp draws a card, you may pay {C}^^ to reveal that card.|12&|13bug|
+
+|1program|2icebreaker|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ tracer subroutine.\{C}^^: +&^^^ strength.|12&^^|13gingerbread|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^|9|10|11{T}: break all but &^ subroutine on a piece of ice.|12&^^|13grappling hook|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: +&^^ strength.\this program cannot interface with ice protecting a remote server.|12&^|13passport|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11secretly spend any number of credits. the corp guesses if you spent an even or odd amount. reveal spent credits. if the corp guessed incorrectly, gain credits equal to twice the amount spent.|12&^^|13push your luck|
+
+|1resource|2job|3criminal|4&^^^|5|6|7|8|9|10|11when your turn begins, you may choose a server. the first time this turn you make a successful run on that server, instead of breaching it, gain {C}^^.|12&|13security testing|
+
+|1resource|2connection|3criminal|4&^^^^|5|6true|7|8|9|10|11when you install @, lose all credits in your credit pool.\your maximum hand size is equal to the number of credits in your credit pool.|12&^^^|13theophilius bagbiter|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11you cannot use @ more than once per turn.\{O}: gain {C}^^.\when @ is trashed, suffer &^^^ meat damage.|12&^^|13tri-maf contact|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11install up to &^^^ programs from your grip (paying the install costs).|12&^|13mass install|
+
+|1hardware|2chip|3neutral|4&|5|6|7|8|9|10|11+{M}^\when an installed program is trashed, trash this hardware.|12&|13q-coherence chip|
+
+|1program|2icebreaker, ai|3neutral|4&|5&|6|7|8&^|9|10|11when you install this program, place &^ power counter on it for each unused mu. \hosted power counter: break &^ subroutine.\{C}^: +&^ strength.|12&^^^^|13overmind|
+
+|1resource|2connection|3neutral|4&^|5|6true|7|8|9|10|11you cannot use @ more than once per turn.\{O}: name a card type. reveal the top card of your stack. if the revealed card is of the named type, draw it and gain {C}^^. otherwise, trash it.|12&^|13oracle may|
+
+|1resource|2connection|3neutral|4&^^|5|6true|7|8|9|10|11the play cost of operations and events is increased by &^.|12&^^^|13donut taganes|
+
+|1event|2priority|3anarch|4&^^^|5|6|7|8|9|10|11play only as your first {O}.\choose a server. the corp can rez a piece of ice protecting this server. if he or she does not, make a run on that server, during which the corp cannot rez ice.|12&^|13cyber threat|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run on hq, the corp loses {C}^.\trash @ if the corp purges virus counters.|12&^|13lamprey|
+
+|1event|2priority|3criminal|4&^^|5|6|7|8|9|10|11play only as your first {O}.\remove all tags.|12&^^^^|13paper tripping|
+
+|1resource|2|3criminal|4&^|5|6|7|8|9|10|11gain {C}^ whenever a trace is initiated.|12&^^|13power tap|
+
+|1identity|2cyborg|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11whenever you encounter a piece of ice after an approach during which that ice was rezzed, lose all credits in your credit pool. gain credits equal to the rez cost of that ice.|12|13nasir meidan: cyber explorer|
+
+|1event|2priority|3shaper|4&^^|5|6|7|8|9|10|11play only as your first {O}.\choose an unrezzed piece of ice. if the corp rezzes that piece of ice this turn, gain credits equal to its rez cost.|12&^^|13social engineering|
+
+|1program|2daemon|3shaper|4&^^|5|6|7|8&^|9|10|11@ can host up to &^^ programs. the memory costs of hosted programs do not count against your memory limit.|12&^^|13leprechaun|
+
+|1resource|2virtual, source|3neutral|4&^|5|6true|7|8|9|10|11whenever you make a successful run on r&d, instead of breaching r&d, you may install this program from your grip, ignoring all costs.\{T}: the corp draws &^^ cards.\limit &^ per deck.|12&^^^^^^^|13eden shard|
+
+|1program|2|3anarch|4&^^^^|5|6|7|8&^|9|10|11place &^^^ power counters on @ when it is installed.\hosted power counter: break ice subroutine on a piece of ice that has a strength of &^^^^^ or greater.|12&^^^|13d4v1d|
+
+|1event|2current|3anarch|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the first piece of ice encountered each turn has -&^^ strength for the remainder of the run.|12&^^|13scrubbed|
+
+|1event|2priority|3criminal|4&^^|5|6|7|8|9|10|11play only as your first {O}.\when this turn ends, gain {C}^^ for each successful run you made during it.|12&^|13three steps ahead|
+
+|1event|2current|3criminal|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the corp cannot install more than &^ piece of ice each turn.|12&^|13unscheduled maintenance|
+
+|1program|2virus|3criminal|4&^|5|6|7|8&^|9|10|11place &^^^ virus counters on @ when it is installed.\hosted virus counter: gain {C}^.|12&^|13cache|
+
+|1event|2current|3shaper|4&^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\{R}^\use this credit during a run.|12&^|13net celebrity|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11{C}^^^ or {T}: prevent an installed piece of hardware from being trashed.|12&|13llds energy regulator|
+
+|1resource|2stealth, virtual|3neutral|4&|5|6|7|8|9|10|11place {C}^^^ on @ when it is installed. when there are no credits left on @, trash it.\you can use the credits on @ during a run.|12&^|13ghost runner|
+
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11{C}: break &^ barrier subroutine. use this ability only once per turn.|12|13quetzal: free spirit|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine. if you spent a credit from a stealth card to use this ability, instead break up to &^^^ barrier subroutines.\{C}^^: +&^ strength. if you spent at least &^ credit from a stealth card to use this ability, instead +&^^ strength.|12&^^^^|13blackat|
+
+|1resource|2location, seedy|3anarch|4&^^^^|5|6true|7|8|9|10|11{O},{O},{O},{O}: draw &^^^^^^^^^^ cards.|12&^^|13duggar's|
+
+|1hardware|2console|3criminal|4&^|5|6true|7|8|9|10|11+{M}^^\your maximum hand size is increased by &^^.\limit &^ console per player.|12&^^^^|13box-e|
+
+|1resource|2connection|3criminal|4&^^|5|6true|7|8|9|10|11{O}: host a resource or piece of hardware from your grip on @.\when your turn begins, you may install a hosted card, lowering the install cost by &^^.|12&^^^|13the supplier|
+
+|1program|2icebreaker, decoder|3shaper|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^^^ strength. use this ability only by spending a credit from a stealth card.|12&^|13refractor|
+
+|1resource|2location|3shaper|4&^|5|6true|7|8|9|10|11the first time you have no credits in your credit pool each turn, gain {C}^.|12&^^|13order of sol|
+
+|1resource|2virtual, source|3neutral|4&^|5|6true|7|8|9|10|11whenever you make a successful run on archives, instead of breaching archives, you may install this resource from your grip, ignoring all costs.\{T}: breach archives. you cannot access cards in the root of archives during this breach.\limit &^ per deck.|12&^^^^^^^|13hades shard|
+
+|1resource|2connection|3neutral|4&^|5|6true|7|8|9|10|11you have +&^ allotted {O} on your turn.\if you are tagged, trash this resource.|12&^^^^^^^^|13rachel beckman|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11reveal the top &^^^^ cards of your stack and trash all programs revealed. gain {C}^ for each program trashed, and add the rest of the revealed cards to your grip.|12&^|13inject|
+
+|1program|2|3anarch|4&^^|5|6|7|8&^|9|10|11your maximum hand size is increased by &^ for each copy of @ installed.|12&|13origami|
+
+|1resource|2virtual|3anarch|4&^|5|6|7|8|9|10|11whenever the corp purges virus counters, he or she loses {C}^^, if able.|12&^|13fester|
+
+|1hardware|2|3criminal|4&^^^|5|6true|7|8|9|10|11the first time you install a program from your grip during your turn, gain {O}.\trash @ if you make an unsuccessful run.|12&^^^|13autoscripter|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&|6|7|8&^|9|10|11{C}^: break any number of sentry subroutines. use this ability only by spending a credit from a stealth card.\{C}^: +&^^^^^^^ strength. use this ability only by spending a credit from a stealth card.|12&^^^|13switchblade|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, trash an installed piece of hardware.\gain credits equal to half the install cost of the trashed hardware (rounded down) and search your stack for a piece of hardware, reveal it, and add it to your grip. shuffle your stack.|12&^|13trade-in|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11+{M}^\draw &^ card whenever the corp creates a server.\limit &^ console per player.|12&^|13astrolabe|
+
+|1resource|2location|3neutral|4&|5|6true|7|8|9|10|11place X power counters on @ when it is installed. when there are no power counters left on @, trash it.\hosted power counter: reveal the top card of your stack. you may add that card to the bottom of your stack.|12X|13angel arena|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11your memory limit is equal to the number of cards in your grip.\limit &^ console per player.|12&^^|13ekomind|
+
+|1program|2icebreaker, killer|3anarch|4&^^^|5&|6|7|8&^|9|10|11when you install this program, place &^^^^ power counters on it.\hosted power counter: break up to &^^ sentry subroutines.\{C}^: +&^ strength.|12&^^^|13cerberus "cuj.0" h3|
+
+|1identity|2natural|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11whenever an agenda is scored or stolen, add &^ unrezzed card to hq.|12|13leela patel: trained pragmatist|
+
+|1program|2icebreaker, decoder|3criminal|4&^^^|5&^|6|7|8&^|9|10|11when you install this program, place &^^^^ power counters on it.\hosted power counter: break up to &^^ code gate subroutines.\{C}^: +&^ strength.|12&^^^|13cerberus "rex" h2|
+
+|1resource|2|3criminal|4&^|5|6|7|8|9|10|11place {C}^ on @ when your turn begins.\{O}: take all credits from @.\trash @ if you are tagged.|12&^^|13zona sul shipping|
+
+|1hardware|2|3shaper|4&^|5|6|7|8|9|10|11{R}^\use this credit to install programs.|12&^^|13cybsoft macrodrive|
+
+|1program|2icebreaker, fracter|3shaper|4&^^^|5&^^^|6|7|8&^|9|10|11when you install this program, place &^^^^ power counters on it.\hosted power counter: break up to &^^ barrier subroutines.\{C}^: +&^ strength.|12&^^^^|13cerberus "lady" h1|
+
+|1resource|2virtual, source|3neutral|4&^|5|6true|7|8|9|10|11whenever you make a successful run on hq, instead of breaching hq, you may install this program from your grip, ignoring all costs.\{T}: the corp discards &^^ cards from hq at random.\limit &^ per deck.|12&^^^^^^^|13utopia shard|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11when your turn begins, place &^ virus counter on @.\{O}, {T}: move all virus counters from @ to another installed virus program.|12&^^^|13incubator|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11whenever the corp loses at least {C}^, gain {C}^.\trash @ if the corp purges virus counters.|12&^|13ixodidae|
+
+|1event|2run|3shaper|4&^^^^|5|6|7|8|9|10|11run r&d. if successful, instead of breaching r&d, you may search your stack for &^ program. install it, paying {C}^^^ less for each piece of ice protecting r&d, and then take &^ tag.|12&|13code siphon|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^^|9|10|11draw &^ card whenever the corp rezzes a piece of ice.|12&^^|13collective consciousness|
+
+|1program|2icebreaker, decoder, fracter|3shaper|4&^^^|5&|6|7|8&^^|9|10|11this program gets +&^ strength for each unused mu.\{C}^^: break &^ code gate or &^ barrier subroutine.|12&^^^^|13sage|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11make a run. during this run, the corp must pay {C}X as an additional cost to rez the first unrezzed piece of ice approached.|12X|13bribery|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^|9|10|11gain {C}^ whenever you jack out.|12&^|13au revoir|
+
+|1resource|2location, ritzy|3neutral|4&|5|6true|7|8|9|10|11when you install this resource, load &^^^ power counters onto it. when it is empty, trash it.\when your turn begins, remove &^ hosted power counter and draw &^^ cards.|12&^^^^|13earthrise hotel|
+
+|1identity|2natural|3anarch|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11trash the first operation you access each turn at no cost.|12|13edward kim: humanity's hammer|
+
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11when your turn begins, trash the top &^^ cards of your stack. draw &^ card.|12|13maxx: maximum punk rock|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1050|11the corp starts the game with &^ bad publicity.|12|13valencia estevez: the angel of cayambe|
+
+|1event|2|3anarch|4&^^^|5|6|7|8|9|10|11gain {O}{O}{O} and suffer &^ brain damage (cannot be prevented).|12&^|13amped up|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11draw &^^^ cards.\whenever @ is trashed by taking net or meat damage, draw &^^^ cards.|12&^|13i've had worse|
+
+|1event|2current|3anarch|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the corp's maximum hand size is reduced by &^ for each bad publicity he or she has.|12&^^|13itinerant protesters|
+
+|1event|2run|3anarch|4&^^^|5|6|7|8|9|10|11run r&d. if successful, when you breach r&d, access cards from the bottom of r&d instead of the top.|12&^^|13showing off|
+
+|1event|2run, sabotage|3anarch|4&^^^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, you may spend any number of {O} to force the corp to trash that many cards from hq at random.|12&^|13wanton destruction|
+
+|1event|2|3anarch|4&^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}{O}{O}.\gain {C}.|12&^^|13day job|
+
+|1event|2run, sabotage|3anarch|4&^^^|5|6|7|8|9|10|11run any server. the first time you fully break a sentry during that run, trash that sentry.|12&^^|13forked|
+
+|1event|2run, sabotage|3anarch|4&^^^|5|6|7|8|9|10|11run any server. the first time you fully break a barrier during that run, trash that barrier.|12&^|13knifed|
+
+|1event|2run, sabotage|3anarch|4&^^^|5|6|7|8|9|10|11run any server. the first time you fully break a code gate during that run, trash that code gate.|12&^^|13spooned|
+
+|1program|2icebreaker, ai|3anarch|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ subroutine. you cannot access cards for the remainder of this run.\{C}^: +&^ strength.|12&^^^^|13eater|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11whenever an installed corp card is trashed, place &^ virus counter on @.\{O}, hosted virus counter: the corp trashes the top card of r&d.|12&^^|13gravedigger|
+
+|1program|2virus|3anarch|4&^^^^^|5|6true|7|8&^^|9|10|11place &^ virus counter on @ when it is installed.\virus counters on @ are considered to be hosted on all other virus programs for the purposes of card effects (and can be spent as if on them).|12&^^^|13hivemind|
+
+|1program|2daemon|3anarch|4&^^|5|6|7|8&|9|10|11you can install virus programs onto this program. limit &^ hosted program.\the memory cost of the hosted program does not count against your memory limit.\whenever virus counters would be purged, prevent &^ virus counter on the hosted program from being removed.|12&|13progenitor|
+
+|1hardware|2|3anarch|4&^^|5|6|7|8|9|10|11whenever you would access a card in archives, you may instead remove it from the game. use this ability only once each time you breach archives.|12&^^^|13archives interface|
+
+|1hardware|2|3anarch|4&^|5|6true|7|8|9|10|11when your turn begins, you may trash another of your installed cards. if you do, draw &^ card or remove &^ tag.|12&^|13chop bot 3000|
+
+|1hardware|2chip|3anarch|4&^^|5|6|7|8|9|10|11+{M}^^^\use the mu on @ only for virus programs.|12&^^^|13memstrips|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^\when your turn begins, draw &^ card if the corp has cards in hq equal to his or her maximum hand size.\limit &^ console per player.|12&^^|13vigil|
+
+|1resource|2connection|3anarch|4&^^|5|6true|7|8|9|10|11whenever an agenda is scored or stolen, gain credits equal to the agenda points on that agenda.|12&^|13human first|
+
+|1resource|2|3anarch|4&^|5|6|7|8|9|10|11install only if the corp has at least &^ bad publicity.\{O},{O},{O},{O},{T}: give the corp &^ bad publicity.|12&|13investigative journalism|
+
+|1resource|2|3anarch|4&^^^^|5|6|7|8|9|10|11{T}: prevent all damage. trash all installed hardware, all installed non-virtual resources, and all cards in your grip. lose all credits in your credit pool. remove all tags.|12&^^^|13sacrificial clone|
+
+|1resource|2connection|3anarch|4&^^^|5|6|7|8|9|10|11when your turn begins, if there are &^^ or more power counters on @, remove all power counters from it and suffer &^ brain damage (cannot be prevented); otherwise, place &^ power counter on @ and gain {O}.|12&^^^^|13stim dealer|
+
+|1resource|2virtual|3anarch|4&^^|5|6|7|8|9|10|11when your turn begins, place &^ virus counter on @.\{O}: move &^ virus counter on @ to another card with at least &^ virus counter on it.|12&^^|13virus breeding ground|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11add an installed program or piece of hardware to your grip.|12&|13uninstall|
+
+|1hardware|2vehicle|3neutral|4&|5|6|7|8|9|10|11when your turn begins, you may lose {O}. if you do, prevent the first tag you would take until your next turn begins.|12&^^|13qianju pt|
+
+|1resource|2virtual|3neutral|4&|5|6|7|8|9|10|11when your turn begins, gain {C}^ if you have &^^ or more unused mu.|12&^^^|13data folding|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11the corp cannot score an agenda during the same turn they installed that agenda.\when the corp purges virus counters, trash this program.|12&^^|13clot|
+
+|1resource|2connection|3anarch|4&^^|5|6true|7|8|9|10|11the first time you install a card each turn (including @), you may search your stack for any number of copies of that card and add them to your heap. shuffle your stack.|12&|13paige piper|
+
+|1resource|2genetics|3anarch|4&^^|5|6true|7|8|9|10|11the first time each turn you lose {O} except by paying the trigger cost of a paid ability, gain {O}.|12&^^^|13adjusted chronotype|
+
+|1program|2icebreaker, fracter, cloud|3criminal|4&^^|5&|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\this program gets +&^ strength for each installed icebreaker.\{T}: break up to &^^^ barrier subroutines.|12&^|13spike|
+
+|1resource|2genetics|3criminal|4&^^^|5|6true|7|8|9|10|11the first time you make a successful run each turn, the corp reveals &^ card at random from hq.|12&^|13enhanced vision|
+
+|1resource|2location|3shaper|4&^|5|6|7|8|9|10|11genetics also trigger the second time each turn their trigger condition is met.|12&^^|13gene conditioning shoppe|
+
+|1resource|2genetics|3shaper|4&^^|5|6true|7|8|9|10|11the first time you take damage each turn, draw &^ card.|12&^^^|13synthetic blood|
+
+|1event|2current|3neutral|4&|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the advancement requirement of each agenda is increased by &^ for each copy of that agenda in the corp's score area.|12&^^|13traffic jam|
+
+|1resource|2genetics|3neutral|4&|5|6true|7|8|9|10|11the first time you spend {O} to draw &^ card (not through a card ability) each turn, gain {C}^.|12&^^|13symmetrical visage|
+
+|1event|2current|3anarch|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\as an additional cost to rez non-ice cards, the corp must randomly trash a card from hq.|12&^|13hacktivist meeting|
+
+|1resource|2location|3anarch|4&^|5|6|7|8|9|10|11@ can host any number of connections.\whenever you install a connection on @, draw &^ card.|12&|13off-campus apartment|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11install &^ resource from your grip, paying {C}^^^ less.|12&|13career fair|
+
+|1hardware|2|3criminal|4&^|5|6|7|8|9|10|11place &^^^^ power counters on @ when you install it.\{O}, hosted power counter: make a run. avoid all tags for the remainder of the run.|12&|13dorm computer|
+
+|1identity|2g-mod|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time you install a card each turn, you may install another card of the same type from your grip (paying its install cost).|12|13hayley kaplan: universal scholar|
+
+|1event|2double|3shaper|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\if you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size.|12&^|13game day|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11+{M}^\the first time you play an event each turn, you may play another event (without spending a click) after the first &^ resolves.\limit &^ console per player.|12&^^^^|13comet|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^^|5&|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: place &^ power counter on this program.\this program gets +&^ strength for each hosted power counter.|12&^^^|13study guide|
+
+|1resource|2location|3shaper|4&^^|5|6true|7|8|9|10|11trash all programs hosted on @ when your turn ends.\{O}: install a non-virus program from your grip on @, ignoring the install cost.\{O}: add a program on @ to your grip.|12&^^^|13london library|
+
+|1resource|2location|3shaper|4&^^|5|6true|7|8|9|10|11{O}, {O}: search your stack for a piece of hardware, reveal it, and add it to your grip. shuffle your stack.|12&^^|13tyson observatory|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11when your turn begins, lose {O}.\your maximum hand size is increased by &^^^^^.|12&|13beach party|
+
+|1event|2run|3anarch|4&^^^|5|6|7|8|9|10|11run archives. if successful, whenever you would access a faceup piece of ice in archives this run, you may instead trash &^ rezzed copy of that ice. use this ability only once this run.|12&|13immolation script|
+
+|1hardware|2cybernetic|3anarch|4&^^|5|6true|7|8|9|10|11when you install @, suffer &^ brain damage.\the trash cost of all cards is lowered by &^.|12&^^|13skulljack|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^\whenever you steal an agenda, you may swap that agenda with an agenda in the corp's score area.\limit &^ console per player.|12&^^|13turntable|
+
+|1resource|2location|3anarch|4&^|5|6|7|8|9|10|11prevent all meat damage and brain damage from installing cybernetics.|12&^|13chrome parlor|
+
+|1hardware|2cybernetic|3criminal|4&^^|5|6true|7|8|9|10|11when you install @, suffer &^^ meat damage.\you choose the card(s) from your grip to trash whenever you take damage (including the damage taken by installing @).|12&^|13titanium ribs|
+
+|1program|2icebreaker, decoder, cloud|3criminal|4&^^|5&|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\this program gets +&^ strength for each installed icebreaker.\{T}: break up to &^^^ code gate subroutines.|12&^|13crowbar|
+
+|1hardware|2cybernetic|3shaper|4&^^|5|6true|7|8|9|10|11when you install @, suffer &^^ meat damage.\whenever you initiate a run, choose an icebreaker. that icebreaker has +&^ strength for the remainder of the run.|12&|13net-ready eyes|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^|9|10|11{O}: run r&d. if successful, instead of breaching r&d, you may choose &^ unrezzed non-ice card with no advancement counters on it. the corp shuffles that card into r&d.|12&^^|13analog dreamers|
+
+|1hardware|2cybernetic|3neutral|4&|5|6true|7|8|9|10|11when you install @, suffer &^ brain damage.\your maximum hand size is increased by &^^^.|12&^|13brain cage|
+
+|1program|2icebreaker, ai|3anarch|4&^^|5&^^|6|7|8&^|9|10|11trash a card from your grip: break &^ subroutine.\trash a card from your grip: +&^^ strength.|12&^^^|13faust|
+
+|1resource|2connection, seedy|3anarch|4&^|5|6|7|8|9|10|11when you install @, host the top &^^^ cards of your stack facedown on @ (you may look at these cards at any time).\{T}: install &^ card hosted on @, lowering its install cost by &^.|12&|13street peddler|
+
+|1identity|2g-mod|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11whenever you use a {T} ability, draw &^ card.|12|13armand "geist" walker: tech lord|
+
+|1event|2double|3criminal|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\expose &^ card installed in the root of a remote server. if you do and that card is an asset or upgrade, trash it.|12&|13drive by|
+
+|1hardware|2console|3criminal|4&^|5|6|7|8|9|10|11+{L}^\{T}: prevent &^ tag.\{T}: remove &^ tag.\limit &^ console per player.|12&^|13forger|
+
+|1program|2icebreaker, killer, cloud|3criminal|4&^^|5&|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\this program gets +&^ strength for each installed icebreaker.\{T}: break up to &^^^ sentry subroutines.|12&|13shiv|
+
+|1resource|2virtual|3criminal|4&^^^|5|6|7|8|9|10|11whenever the corp scores an agenda, breach hq. you cannot access cards in the root of hq during this breach.|12&^|13gang sign|
+
+|1resource|2connection|3criminal|4&^^|5|6|7|8|9|10|11when you install @, the corp must derez a card.\when @ is uninstalled, the corp may rez a card, ignoring the rez cost.\{T}: draw &^ card.|12&|13muertos gang member|
+
+|1program|2icebreaker|3shaper|4&^^^|5&^^^|6|7|8&^|9|10|11when you install this program, choose barrier, code gate, or sentry.\when your discard phase ends, add this program to your grip.\{C}^: break &^ subroutine on a piece of ice that has the chosen subtype.|12&^^|13chameleon|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^^^|9|10|11when your turn begins, you may remove @ from the game and gain {O}{O}{O}.|12&^|13hyperdriver|
+
+|1program|2|3anarch|4&^^^|5|6|7|8&^|9|10|11when your turn begins, place &^ power counter on @.\{O}, remove @ from the game: shuffle &^ card from your heap into your stack for each power counter on @.|12&^|13trope|
+
+|1resource|2virtual|3anarch|4&^^^|5|6|7|8|9|10|11whenever the corp scores an agenda, he or she trashes the top card of r&d.|12&^|13spoilers|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11when your turn begins, lose {C}^.\when the corp's turn begins, draw &^ card.|12&^|13drug dealer|
+
+|1resource|2virtual|3criminal|4&^|5|6|7|8|9|10|11when you install @, look at the top &^^^^^ cards of your stack and arrange them in any order.\when @ is trashed, trash the top &^^^ cards of your stack.|12&|13rolodex|
+
+|1resource|2virtual|3shaper|4&^|5|6|7|8|9|10|11whenever the corp scores an agenda, add @ to your score area as an agenda worth & agenda points.|12&|13fan site|
+
+|1resource|2connection|3shaper|4&^|5|6|7|8|9|10|11@ can host a single agenda.\whenever you access an agenda, you may host that agenda on @ (the agenda is no longer being accessed and is uninstalled).\{O},{O}: add an agenda hosted on @ to your score area.|12&^|13film critic|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11you are tagged.\prevent all meat damage.|12&|13paparazzi|
+
+|1event|2priority|3anarch|4&^^|5|6|7|8|9|10|11play only as your first {O}.\the first time you access an agenda this turn, gain {C}^^^^^^^.|12&|13power to the people|
+
+|1program|2|3anarch|4&^^^|5|6|7|8&^|9|10|11{C}^^: swap a piece of barrier ice currently being encountered with a piece of ice directly before or after it. the run continues from this new position. you are still encountering that ice.|12&^^|13surfer|
+
+|1resource|2virtual|3anarch|4&^^^|5|6|7|8|9|10|11{T}: the corp cannot rez the outermost piece of ice during a run on any server this turn.|12&^^^|13ddos|
+
+|1identity|2natural|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time you make a successful run on a central server each turn, you may force the corp to draw &^ card.|12|13laramy fisk: savvy investor|
+
+|1event|2priority|3criminal|4&^^|5|6|7|8|9|10|11play only as your first {O}.\each player draws &^^^ cards.|12&|13fisk investment seminar|
+
+|1hardware|2|3shaper|4&^^|5|6|7|8|9|10|11{O}: host up to &^^^ cards from your grip facedown on this hardware .\{O}: add all hosted cards to your grip.\{T}: add all hosted cards to your grip.|12&|13bookmark|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run, place &^ power counter on @.\{T}: install a card from your grip with an install cost equal to or less than the number of power counters on @, ignoring the install cost.|12&^|13davinci|
+
+|1resource|2location|3neutral|4&|5|6true|7|8|9|10|11as an additional cost to take the basic action to trash &^ resource, the corp must pay {C}^^.|12&^|13wireless net pavilion|
+
+|1identity|2digital|3apex|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^^^^^^^^^^^|1045|11you cannot install non-virtual resources.\when your turn begins, you may install &^ card from your grip facedown.|12|13apex: invasive predator|
+
+|1event|2|3apex|4&^^^|5|6|7|8|9|10|11play only if you made a successful run on hq, r&d and archives this turn.\trash all installed corp cards. turn all installed runner cards facedown.|12&^^^|13apocalypse|
+
+|1event|2run|3apex|4&^^|5|6|7|8|9|10|11make a run. once during this run, when you pass a piece of ice, you may trash a number of your installed cards equal to the strength of that ice. if you do, trash that ice.|12&|13prey|
+
+|1hardware|2console|3apex|4&^^^|5|6true|7|8|9|10|11+{M}^\trash an installed card: prevent &^ damage.\limit &^ console per player.|12&^^|13heartbeat|
+
+|1program|2icebreaker|3apex|4&^^|5&^^^^^^^^^^^|6|7|8&^^^^|9|10|11trash &^ installed card: break &^ "> end the run." subroutine.|12&|13endless hunger|
+
+|1program|2|3apex|4&^|5|6|7|8&|9|10|11when this program would be trashed, turn it facedown instead of adding it to your heap. |12&|13harbinger|
+
+|1resource|2location, virtual|3apex|4&^|5|6|7|8|9|10|11once per turn, prevent a "when encountered" ability on a piece of ice.\{T}: install the top &^^^ cards of your stack facedown.|12&^^|13hunting grounds|
+
+|1resource|2location, virtual|3apex|4&^^|5|6|7|8|9|10|11the first time each turn you trash &^ of your installed cards, gain {C}^.|12&^^|13wasteland|
+
+|1identity|2bioroid|3adam|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^^^^^^^^^^^|1045|11you start the game with &^^^ different directive cards installed (these cards are not considered part of your deck).|12|13adam: compulsive hacker|
+
+|1event|2|3adam|4&^|5|6|7|8|9|10|11trash up to &^^^^^ of your installed cards. draw &^ card for each card trashed (or &^^ cards for each card trashed if you trashed at least &^ directive).|12&^|13independent thinking|
+
+|1hardware|2console|3adam|4&^^^|5|6true|7|8|9|10|11+{M}X\your maximum hand size is increased by x.\x is equal to the number of agenda points you have.\limit &^ console per player.|12&^^|13brain chip|
+
+|1program|2|3adam|4&^|5|6|7|8&^|9|10|11{R}^^\use these credits to pay for using programs.|12&^^^|13multithreader|
+
+|1resource|2directive, virtual|3adam|4&^^^|5|6true|7|8|9|10|11the first {O} you spend each turn must be spent to play a run event or take the basic action to run a server.\lose {O}{O}: break &^ subroutine on the ice you are encountering. use this ability only once per turn.|12&|13always be running|
+
+|1resource|2connection|3adam|4&^|5|6true|7|8|9|10|11when your turn begins, choose &^ of your installed cards. the text box of that card is blank for the remainder of the turn.|12&^^|13dr. lovegood|
+
+|1resource|2directive, virtual|3adam|4&^^^|5|6true|7|8|9|10|11the first time each turn you access a card with a trash cost, reveal it. you must trash that card by paying its trash cost, if able.\whenever you breach hq, access &^ additional card.|12&|13neutralize all threats|
+
+|1resource|2directive, virtual|3adam|4&^^^|5|6true|7|8|9|10|11your maximum hand size is reduced by &^^.\when your turn ends, draw &^ card if you do not have cards in your grip equal to or greater than your maximum hand size.|12&|13safety first|
+
+|1identity|2natural|3sunny|4&|5|6|7&^^|8|9&^^^^^^^^^^^^^^^^^^^^^^^^^|1050|11|12|13sunny lebeau: security specialist|
+
+|1hardware|2chip|3sunny|4&^|5|6|7|8|9|10|11{T}: choose an icebreaker (or any number of cloud icebreakers). each chosen icebreaker has +&^ strength for each {L} you have for the remainder of this run. use this ability only during a run.|12&|13security chip|
+
+|1hardware|2console|3sunny|4&^^^|5|6true|7|8|9|10|11+{M}^ +{L}^\once per turn, when you encounter a piece of ice, you may force the corp to "{#}^^^^^ if successful, give the runner &^ tag and end the run. if unsuccessful, the runner bypasses the currently encountered ice."\limit &^ console per player.|12&^^^^^^^^|13security nexus|
+
+|1program|2icebreaker, decoder, cloud|3sunny|4&^^|5&^|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\{C}^^: break any number of code gate subroutines.\{C}^^: +&^^^ strength.|12&^^^^|13gs striker m1|
+
+|1program|2icebreaker, killer, cloud|3sunny|4&^^|5&^|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\{C}^^: break any number of sentry subroutines.\{C}^^: +&^^^ strength.|12&^^^^^|13gs shrike m2|
+
+|1program|2icebreaker, fracter, cloud|3sunny|4&^^|5&^|6|7|8&^|9|10|11if you have at least {L}^^, the memory cost of this program is {M}, even if it is not installed.\{C}^^: break any number of barrier subroutines.\{C}^^: +&^^^ strength.|12&^^^|13gs sherman m3|
+
+|1resource|2virtual|3sunny|4&^^|5|6|7|8|9|10|11install only if you have at least {L}^^.\when your turn begins, you may lose {O}. if you do, look at the top card of r&d.|12&^^|13globalsec security clearance|
+
+|1resource|2connection|3sunny|4&^^|5|6true|7|8|9|10|11reduce the cost to install @ by &^ for each {L} you have.\when your turn begins, you may make a run. you cannot use programs during this run.|12&^^^|13jak sinclair|
+
+|1event|2current|3neutral|4&^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the corp's identity text box is blank.|12&^|13employee strike|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11shuffle your stack. trash the top card of your stack. gain {C}X where x is equal to the install cost of that card.|12&|13windfall|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11whenever you install a piece of hardware or a program, place {C}^ from the bank on @.\{O},{T}: take all credits from @.|12&|13technical writer|
+
+|1event|2run, sabotage|3anarch|4&^^^|5|6|7|8|9|10|11make a run. when the run ends, trash &^ piece of ice that was rezzed during this run.|12&^^^|13run amok|
+
+|1hardware|2consumer-grade|3anarch|4&^|5|6|7|8|9|10|11{T}: prevent up to x net or brain damage. trash cards from the top of your stack equal to the amount of damage prevented. x is the number of copies of @ installed (including the &^ just trashed).\limit &^^^^^^ per deck.|12&^|13ramujan-reliant 550 bmi|
+
+|1resource|2virtual|3anarch|4&^|5|6|7|8|9|10|11unbroken subroutines resolve in the order of your choice.|12&|13street magic|
+
+|1event|2run, job|3criminal|4&^^^|5|6|7|8|9|10|11make a run on a server with at least &^ piece of unrezzed ice. when the run ends, gain {C}^^ if it was successful.|12&^^^^^^|13high-stakes job|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&^|6|7|8&^|9|10|11you cannot use this program to break subroutines on more than &^ ice per run.\{C}^: break up to &^^ sentry subroutines.\{C}^^: +&^^ strength.|12&^^^|13mongoose|
+
+|1identity|2natural|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time each run you would take &^ or more tags, prevent &^ tag.|12|13jesminder sareen: girl behind the curtain|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11 +{M}^^\once per turn, immediately after you access a card from r&d, you may add that card to the bottom of r&d. if you do, take &^ tag.\limit &^ console per player.|12&^^^|13maya|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11once per turn, when you encounter a piece of ice, you may have it gain &^ subtype of your choice that is not sentry, code gate, or barrier for the remainder of this run.|12&^^|13panchatantra|
+
+|1resource|2location|3shaper|4&^^^|5|6|7|8|9|10|11forfeit &^ agenda: search your stack for &^ program, resource, or piece of hardware. install that card.|12&|13artist colony|
+
+|1resource|2location, ritzy|3neutral|4&|5|6true|7|8|9|10|11{O}: place &^ power counter on @.\{O}: install a program from your grip, lowering the install cost by &^ for each power counter on @. remove &^ hosted power counter.|12&^|13chatterjee university|
+
+|1hardware|2bomb|3anarch|4&^^^^|5|6|7|8|9|10|11{T}: the corp cannot rez more than &^ piece of ice for the remainder of this run. use this ability only during a run.|12&^|13emp device|
+
+|1program|2virus|3anarch|4&^|5|6|7|8&^|9|10|11when you install this program, choose a server. as an additional cost to install a card in the root of or protecting that server, the corp must pay {C}^.\when the corp purges virus counters, trash this program.|12&^|13diwan|
+
+|1event|2run, sabotage|3criminal|4&^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, the corp adds all cards in hq to the top of r&d in the order of their choice.|12&^^^|13cbi raid|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11whenever you use a {T} ability, gain {C}^.|12&^|13tech trader|
+
+|1hardware|2consumer-grade, chip|3shaper|4&^^|5|6|7|8|9|10|11@ can host a program with a memory cost less than or equal to the number of copies of @ installed. the memory cost of the hosted program does not count against your memory limit.\limit &^^^^^^ per deck.|12&^|13netchip|
+
+|1event|2current|3neutral|4&^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the corp has &^ additional bad publicity (even if they have &).|12&^^^|13corporate scandal|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11play only if you have at least &^ seedy card installed.\the corp has &^ fewer {O} to spend on his or her next turn.|12&^^|13populist rally|
+
+|1event|2run|3anarch|4&^^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, add this event to an agenda in the corp's score area as a hosted condition counter with "host agenda is worth &^ less agenda point. when the corp purges virus counters, trash this counter."|12&|13political graffiti|
+
+|1identity|2natural|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11once per turn, you may jack out when you encounter a sentry.|12|13nero severn: information broker|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11 +{M}^ +{L}^\whenever you jack out, the corp reveals &^ card from hq at random.\limit &^ console per player.|12&^^|13reflection|
+
+|1hardware|2consumer-grade|3criminal|4&^|5|6|7|8|9|10|11{O}: look at the top x cards of your stack and arrange them in any order. x is the number of copies of @ installed.\{T}: look at the top card of r&d.\limit &^^^^^^ per deck.|12&|13spy camera|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11install only if you made a successful run on hq this turn.\{T}, {C}X: trash &^ rezzed card with trash cost equal to x.|12&^|13political operative|
+
+|1program|2icebreaker, ai, deva|3shaper|4&^^|5&^^|6true|7|8&^|9|10|11{C}^: break &^ subroutine on a piece of ice with &^^^ or more subtypes.\{C}^: +&^ strength.\{C}^^: swap this program with a deva program from your grip.|12&^^^^|13sadyojata|
+
+|1event|2current|3neutral|4&|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\when you steal an agenda, add @ to your score area as an agenda worth &^ agenda point.|12&^^^|13"freedom through equality"|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11each player has &^ additional {O} to spend during his or her turn.|12&|13akshara sareen|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11whenever the corp rezzes an asset or upgrade, you may pay credits equal to its rez cost and trash @. if you do, derez that asset or upgrade. the corp cannot rez it for the remainder of this turn.|12&|13councilman|
+
+|1event|2priority|3anarch|4&^^|5|6|7|8|9|10|11play only as your first {O}.\look at the top &^^^^^^ cards of your stack. you may trash any of those cards and arrange the rest in any order.|12&|13making an entrance|
+
+|1resource|2location, seedy|3anarch|4&^^|5|6|7|8|9|10|11pay the trash cost of the card you are accessing: remove it from the game. use this ability only once per turn.|12&^^|13salsette slums|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11draw &^ card. gain {C}^ for each copy of @ in your heap.\limit &^^^^^^ per deck.|12&|13exclusive party|
+
+|1program|2icebreaker, ai, deva|3criminal|4&^^|5&^^|6true|7|8&^|9|10|11{C}^: break &^ subroutine on a piece of ice with exactly &^ subroutine.\{C}^: +&^ strength.\{C}^^: swap this program with a deva program from your grip.|12&^^^^^^|13vamadeva|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&^^^|6|7|8&^^|9|10|11{C}^: break up to &^^ subroutines.\{C}^^: +&^ strength.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, add &^ installed non-virus program to the top of your stack.|12&^^^^|13brahman|
+
+|1resource|2connection|3shaper|4&^^^|5|6|7|8|9|10|11when your turn begins, you may choose a server. the first time this turn you make a successful run on the chosen server, instead of breaching it, draw &^^ cards.|12&^^^|13patron|
+
+|1hardware|2vehicle|3neutral|4&|5|6|7|8|9|10|11 +{L}^\{T}: draw &^^^ cards.|12&^^^|13sports hopper|
+
+|1resource|2location, ritzy|3neutral|4&|5|6|7|8|9|10|11whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).|12&^|13bazaar|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11trash your grip. make a run. prevent all damage during this run.|12&|13the noble path|
+
+|1resource|2|3anarch|4&^^^|5|6true|7|8|9|10|11when your turn begins, gain {O} if you have no cards in your grip.|12&|13emptied mind|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, the corp separates all cards in hq into &^^ facedown piles. choose &^ of the piles. access each card in the chosen pile.|12&^|13information sifting|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11make a run.\when your turn begins, if @ is in your heap, you may remove it from the game to make a run.\limit &^^^^^^ per deck.|12&^|13out of the ashes|
+
+|1resource|2connection|3shaper|4&^^|5|6|7|8|9|10|11{O},{O},{O},{O},{O}, forfeit an agenda: add @ to your score area as an agenda worth &^^ agenda points. the corp may forfeit an agenda to prevent this. if he or she does, remove @ from the game.|12&|13liberated chela|
+
+|1resource|2location, ritzy|3shaper|4&^^^|5|6true|7|8|9|10|11{O}: place &^ power counter on @.\hosted power counter: gain {O}. use this ability only on your turn and only once per turn.|12&^^|13temple of the liberated mind|
+
+|1event|2|3neutral|4&^|5|6|7|8|9|10|11switch your identity with another identity from the same faction. remove @ from the game instead of trashing it.\limit &^ per deck.|12&|13rebirth|
+
+|1resource|2connection|3neutral|4&^|5|6true|7|8|9|10|11prevent all net and meat damage.\whenever @ prevents at least &^ net or meat damage, trash him unless you pay {C}^^^^.|12&^|13guru davinder|
+
+|1resource|2virtual|3neutral|4&^|5|6true|7|8|9|10|11whenever a run on hq or r&d ends, place &^ power counter on this resource if you stole no agendas during that run.\&^^ hosted power counters: choose hq or r&d. for the remainder of this run, access &^ additional card whenever you breach that server.|12&^^|13the turning wheel|
+
+|1event|2run, sabotage|3anarch|4&^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, reveal any number of copies of @ from your grip. the corp trashes x cards from the top of r&d, where x is equal to &^ plus the number of cards you revealed.\limit &^^^^^^ per deck.|12&^|13fear the masses|
+
+|1program|2icebreaker, ai, deva|3anarch|4&^^|5&^^|6true|7|8&^|9|10|11{C}^: break &^ subroutine on a piece of ice that has a rez cost of &^^^^^ or greater.\{C}^: +&^ strength.\{C}^^: swap this program with a deva program from your grip.|12&^^^^^|13aghora|
+
+|1resource|2connection|3anarch|4&^^^^|5|6true|7|8|9|10|11the first time you make a successful run on hq each turn, force the corp to trash the top card of r&d.|12&^^^|13bhagat|
+
+|1resource|2virtual|3criminal|4&^^^^|5|6true|7|8|9|10|11the corp cannot win the game except if you are flatlined.\when your turn begins, place &^ power counter on this resource. if there are &^^^ or more hosted power counters, remove this resource from the game.\limit &^ per deck.|12&^^^^^|13the black file|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, trash an installed connection.\the corp cannot advance cards during his or her next turn. remove @ from the game instead of trashing it.|12&|13the price of freedom|
+
+|1program|2icebreaker, fracter|3shaper|4&^^^|5&|6|7|8&^|9|10|11whenever this program fully breaks a barrier, add that barrier to hq.\{C}^^: break &^ barrier subroutine.\{C}^: +&^ strength.|12&^^^^^^|13ankusa|
+
+|1event|2|3neutral|4&^|5|6|7|8|9|10|11secretly spend up to {C}^^. the corp guesses how much you spent. reveal spent credits. if the corp guessed incorrectly, choose a piece of ice protecting a server and run that server. the first time during this run you encounter the chosen ice, bypass it.|12&|13rigged results|
+
+|1event|2current|3anarch|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\whenever the corp draws &^ or more cards, he or she loses {C}^ if it is not the first time he or she has drawn cards this turn.|12&^|13system outage|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11once per turn, when you encounter a piece of ice, you may trash &^ card from your grip. if you do, that ice has -&^^ strength for the remainder of this run.|12|13null: whistleblower|
+
+|1hardware|2|3criminal|4&^^|5|6|7|8|9|10|11whenever you approach a piece of ice, you may expose it. you may then trash @ to jack out.|12&^^^|13gpi net tap|
+
+|1resource|2connection|3criminal|4&^|5|6true|7|8|9|10|11if the corp has at least {C}, as an additional cost to rez each piece of ice, the corp must spend credits equal to the number of subroutines on that ice.|12&^^|13hernando cortez|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^^\whenever you make a successful run on r&d, you may replace &^ spent recurring credit.\limit &^ console per player.|12&^^^|13mirror|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&^|6|7|8&^|9|10|11{C}^^: break all subroutines. use this ability only by spending credits from stealth cards.\{C}^: +&^ strength.|12&^^^^^^|13dai v|
+
+|1event|2current|3sunny|4&^^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\whenever you steal an agenda, force the corp to "{#} if unsuccessful, the runner gains credits equal to the number of agenda points in both players' score areas."|12&|13another day, another paycheck|
+
+|1event|2|3neutral|4&^|5|6|7|8|9|10|11resolve &^^ of the following in any order: =gain {C}^^^. =draw &^^ cards. =remove &^ tag. =expose &^ piece of ice, then make a run.|12&^^|13deuces wild|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11choose &^ installed icebreaker and run any server. during that run, the chosen icebreaker gets +&^^ strength.|12&^|13injection attack|
+
+|1event|2run|3anarch|4&^|5|6|7|8|9|10|11make a run. trash the first non-agenda card you access during this run at no cost. the corp can spend credits equal to the rez or play cost of the accessed card to prevent this trash.|12&^|13credit crash|
+
+|1event|2current|3anarch|4&^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the text box of each unique non-region asset and upgrade is blank.|12&^|13rumor mill|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^|5&^|6|7|8&^|9|10|11whenever this program fully breaks a piece of ice, place &^ power counter on this program.\this program gets +&^ strength for each power counter on it.\{C}^: break &^ barrier subroutine.|12&^^^|13nfr|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^|5&^|6|7|8&^|9|10|11whenever you encounter a barrier, you may install this program from your heap.\{C}X: +x strength. then, if this program can interface with the barrier you are encountering, break up to x subroutines.|12&^^^^|13paperclip|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ sentry subroutines.\{C}^^: +&^^^^ strength.\{C}^^, add this program to your grip: derez &^ sentry this program fully broke during this encounter.|12&^^^^^|13golden|
+
+|1resource|2job|3criminal|4&^^|5|6true|7|8|9|10|11choose a server and place {C} from the bank on @ when you install it. when there are no credits left on @, trash it.\whenever you make a successful run on the chosen server, take {C}^^^^ from @.|12&^^^^|13temüjin contract|
+
+|1identity|2natural|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^|1040|11the first time you pass a piece of ice each turn, you may install an icebreaker from your hand, lowering the install cost by &^.|12|13khan: savvy skiptracer|
+
+|1event|2run|3shaper|4&^|5|6|7|8|9|10|11make a run on r&d. if successful, you may make another run on r&d when this run ends.|12&|13data breach|
+
+|1resource|2job|3shaper|4&^|5|6|7|8|9|10|11when your turn begins, you may move up to {C}^^^ from your credit pool to @.\when your turn begins, place {C}^^ on @ from the bank if there are at least {C}^^^^^^ on it.\{O},{T}: take all credits from @.|12&|13algo trading|
+
+|1resource|2connection|3shaper|4&^^^|5|6true|7|8|9|10|11if the corp has &^^^^^-{C}^^^^^^^^^ when your turn begins, gain {C}^.\if the corp has &^^^^^^^^^^-{C}^^^^ when your turn begins, draw &^ card.\if the corp has at least {C}^^^^^ when your turn begins, gain {O}.|12&^^|13beth kilrain-chang|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^\you get +&^ maximum hand size for each tag you have.\the first time each turn a successful run on hq or r&d ends, draw &^ card for each time you accessed a card during that run.\limit &^ console per player.|12&^^^^|13obelus|
+
+|1program|2icebreaker, decoder|3anarch|4&^^|5&^^|6|7|8&^|9|10|11whenever you encounter a code gate, you may install this program from your heap.\{C}^^^: +&^^ strength. then, if this program can interface with the code gate you are encountering, break up to &^^ subroutines.|12&^^^|13black orchestra|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^|1045|11{O}: run archives. if that run would be declared successful, change the attacked server to hq or r&d for the remainder of that run. use this ability only once per turn.|12|13omar keung: conspiracy theorist|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^^: +&^^^ strength.\{C}^^, add this program to your grip: derez &^ code gate this program fully broke during this encounter.|12&^^^^^|13peregrine|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: +&^^^^ strength for the remainder of this run. use this ability only by spending at least &^ credit from a stealth card.|12&^^|13houdini|
+
+|1resource|2virtual, stealth|3shaper|4&^^^|5|6true|7|8|9|10|11the first time you spend at least {C}^ from a stealth card each run, place {C}^ on @ or draw &^ card.\use credits on @ for anything.|12&^^^|13net mercur|
+
+|1resource|2directive, virtual|3adam|4&^^^|5|6true|7|8|9|10|11whenever you draw a card, reveal that card.\the first time each turn you make a successful run, you may look at the top card of r&d.|12&|13find the truth|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11{C}^^: draw &^ card. use this ability only if you have suffered damage from a corp card ability this turn.|12&^^|13first responders|
+
+|1event|2sabotage|3anarch|4&^^|5|6|7|8|9|10|11play only if you made a successful run this turn.\trash &^ unrezzed piece of ice you passed during your last run.|12&|13en passant|
+
+|1event|2|3anarch|4&^^^|5|6|7|8|9|10|11look at the top &^^^^^^^^^^ cards of your stack. if any of those cards are programs, you may install &^ of them, lowering the install cost by &^^^^^. trash the rest of those cards.|12&^^^|13frantic coding|
+
+|1hardware|2console|3criminal|4&^|5|6true|7|8|9|10|11+{M}^^\whenever you breach hq during a run, access &^ additional card for each piece of ice protecting hq that you fully broke during that run.\limit &^ console per player.|12&^^^^^|13the gauntlet|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^^: +&^^ strength.\{C}^^, add this program to your grip: derez &^ barrier this program fully broke during this encounter.|12&^^^^|13saker|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11{O},{O}: draw &^^^ cards. shuffle &^ card from your grip into your stack.|12&^|13blockade runner|
+
+|1identity|2g-mod, stealth|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11{R}^\use this credit to pay for using icebreakers.|12|13ele "smoke" scovak: cynosure of the net|
+
+|1hardware|2|3shaper|4&^|5|6|7|8|9|10|11whenever you make a successful run on r&d, instead of breaching r&d, you may choose &^ of the top &^^^^^ cards in r&d and access it.|12&|13top hat|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^^^: +&^^^^ strength for the remainder of this run. use this ability only by spending at least {C}^ from a stealth card.|12&^^^^|13blackstone|
+
+|1event|2current|3neutral|4&|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\while secretly spending credits, players cannot spend {C}^^.|12&|13government investigations|
+
+|1resource|2location|3neutral|4&|5|6true|7|8|9|10|11if you are tagged when your turn ends, force the corp to "{#}^ if unsuccessful, the runner removes &^ tag."\{T},trash all cards in your grip: prevent all meat damage.|12&^^|13citadel sanctuary|
+
+|1program|2icebreaker, killer|3anarch|4&^^|5&^|6|7|8&^|9|10|11whenever you encounter a sentry, you may install this program from your heap.\{C}^^^: +&^^ strength. then, if this program can interface with the sentry you are encountering, break up to &^^ subroutines.|12&^^|13mkultra|
+
+|1event|2condition|3criminal|4&^^|5|6|7|8|9|10|11install @ on a resource as a hosted condition counter with the text "{T}: avoid up to &^^^ tags or prevent up to &^^^ damage."|12&^^^|13on the lam|
+
+|1event|2run, stealth|3shaper|4&^|5|6|7|8|9|10|11place {C}^^^^ on this event, then run any server. you can spend hosted credits during that run. when that run ends, trash &^ program you used during that run. trashing a program this way cannot be prevented.|12&|13cold read|
+
+|1program|2|3shaper|4&^^^|5|6true|7|8&^|9|10|11whenever you make a successful run on r&d, you may reveal the top card of r&d. if you do, you may force the corp to draw that card.|12&^^|13equivocation|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11{O}, {O}, {C}X: remove x tags.|12&|13misdirection|
+
+|1program|2|3apex|4&^^^^|5|6|7|8&^|9|10|11the first time you trash an installed card each turn, draw &^ card.|12&^^|13reaver|
+
+|1event|2current|3neutral|4&|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the corp cannot rez non-ice cards during the runner's turn.|12&^|13interdiction|
+
+|1program|2icebreaker, ai|3neutral|4&^^|5&|6|7|8&^|9|10|11you may host any number of non-ai icebreaker programs on this program.\this program gains the paid abilities of all hosted icebreaker programs.|12&^^^^^|13baba yaga|
+
+|1hardware|2console|3anarch|4&^|5|6true|7|8|9|10|11+{M}^^\once per turn, when you encounter a piece of ice, you may reduce your maximum hand size by &^ until the beginning of your next turn. if you do, the strength of that ice is lowered to & for the remainder of the encounter.\limit &^ console per player.|12&^^^^^|13şifr|
+
+|1program|2icebreaker, killer|3anarch|4&^^^|5&^|6|7|8&^|9|10|11whenever this program fully breaks a piece of ice, place &^ power counter on this program.\this program gets +&^ strength for each power counter on it.\{C}^^: break &^ sentry subroutine.|12&^^^|13sūnya|
+
+|1hardware|2|3criminal|4&^^^|5|6|7|8|9|10|11{C}X,{T}: prevent x damage from a card currently being accessed.|12&^|13recon drone|
+
+|1program|2virus|3criminal|4&^^|5|6|7|8&^|9|10|11install only if you made a successful run on a central server this turn.\when your turn begins, gain {C}^ for every {C}^^^^^ in the corp's credit pool.\trash @ if the corp purges virus counters.|12&|13tapwrm|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^^|9|10|11when your turn begins, choose a server.\{O}, {C}^^: run the server you chose this turn. the first time a subroutine would resolve during this run, prevent it from resolving.|12&|13tracker|
+
+|1resource|2connection|3criminal|4&^^|5|6true|7|8|9|10|11whenever an agenda is scored or stolen, place &^^ power counters on @.\hosted power counter: remove &^ tag and draw &^ card.|12&^^|13aaron marrón|
+
+|1event|2|3shaper|4&^^^^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\take an additional turn after this one. remove @ from the game instead of trashing it.|12&|13encore|
+
+|1program|2icebreaker, killer|3shaper|4&^^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}X: +x strength for the remainder of this run. use this ability only by spending at least &^ credit from a stealth card.|12&^^^^^|13fawkes|
+
+|1event|2priority|3neutral|4&^|5|6|7|8|9|10|11play only as your first {O} and only if the corp scored no agendas during his or her last turn.\gain {C}. the corp gains {C}^^^^^. you cannot initiate any runs this turn.|12&^|13peace in our time|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11make a run. if you have &^^ or fewer cards in your grip, each installed icebreaker has +&^^ strength until the end of the run.|12&^^^|13pushing the envelope|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^^\the first time each turn you access a card not in archives and do not steal or trash it, the corp must trash &^ card from hq at random.\limit &^ console per player.|12&^^^^^^|13maw|
+
+|1resource|2connection|3anarch|4&^^^^|5|6true|7|8|9|10|11+{L}^\whenever the corp scores an initiative or security agenda, force the corp to "{#}^ if unsuccessful, take &^ bad publicity."|12&^|13the archivist|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\derez up to &^^^ pieces of ice.|12&^^|13exploit|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11expose &^ non-ice card, then make a run.|12&^^|13spot the prey|
+
+|1resource|2virtual|3shaper|4&^^|5|6|7|8|9|10|11{T}: prevent all but &^ net damage.|12&^|13bio-modeled network|
+
+|1resource|2virtual|3shaper|4&^^|5|6|7|8|9|10|11the install cost of each piece of ice that is not installed in the innermost position is increased by &^.|12&^^|13network exchange|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11make a run. when this run ends, add @ to your score area as an agenda worth &^ agenda point if you stole at least &^ agenda during the run; otherwise, suffer &^ meat damage.|12&|13mad dash|
+
+|1hardware|2cybernetic|3anarch|4&^^^^|5|6|7|8|9|10|11{O}: trash &^^ or more cards from your grip. run hq or r&d. whenever you breach that server during this run, access &^ additional card for every &^^ cards you trashed.|12&^^|13severnius stim implant|
+
+|1resource|2clan|3anarch|4&^^^^|5|6|7|8|9|10|11whenever you suffer any amount of damage, place &^ power counter on @.\{T}: trash &^ card from hq at random for each power counter on @.|12&^^^|13clan vengeance|
+
+|1resource|2clan|3anarch|4&^^^|5|6|7|8|9|10|11{O}, {T}: run any server. if successful, instead of breaching the attacked server, pay {C}X if able, where x is equal to the number of tags you have. if you do, choose a number less than or equal to x. access that many cards in and/or in the root of the attacked server. |12&^|13counter surveillance|
+
+|1event|2run|3criminal|4&^|5|6|7|8|9|10|11make a run on r&d. if successful, you may make another run on r&d when this run ends. if the second run is successful, gain {C}^^^^.|12&|13möbius|
+
+|1identity|2g-mod|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time the corp rezzes a piece of ice each turn, gain {C}^^.|12|13los: data hijacker|
+
+|1event|2current|3shaper|4&^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the first time each turn you would increase the strength of an icebreaker, for the remainder of the run that icebreaker gains "abilities that increase this program's strength last for the remainder of the run instead ."|12&|13system seizure|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11when you install @ reveal the top &^^^^^ cards of the stack. you may host any number of revealed programs from your stack on it. shuffle your stack.\{O}: install a hosted program, paying all install costs.|12&^^|13customized secretary|
+
+|1event|2|3neutral|4&^|5|6|7|8|9|10|11gain {C}^ and draw &^^ cards.|12&|13build script|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^|5&^^|6|7|8&^|9|10|11whenever you encounter a barrier, for the remainder of that encounter this program gets +&^ strength for each subroutine on that barrier.\{C}^^: break up to &^^ barrier subroutines.|12&^^^^|13berserker|
+
+|1program|2icebreaker, killer|3anarch|4&^^^|5&^|6|7|8&^^|9|10|11{C}^^: break &^ sentry subroutine.\{C}^: +&^ strength.\whenever you pass a sentry after encountering it, you may trash the top card of your stack. if you do, trash &^ card from the top of r&d for each subroutine on that sentry that resolved during that encounter.|12&^^^^^|13persephone|
+
+|1hardware|2|3criminal|4&^^^|5|6true|7|8|9|10|11{O}, {C}X: derez &^ piece of ice with printed rez cost {C}X that was rezzed this turn. use this ability only once per turn.|12&^^^|13rubicon switch|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11whenever you access a card with a trash cost not in archives and do not trash it, you may reveal it and gain {C}^.|12&|13aeneas informant|
+
+|1resource|2virtual|3criminal|4&^^^^|5|6|7|8|9|10|11{O}, remove an installed program from the game: search your stack for a non-virus program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game.|12&^^^|13rosetta 2.0|
+
+|1hardware|2mod|3shaper|4&^^|5|6|7|8|9|10|11install only on an icebreaker.\host icebreaker gains ai and "lose {O}: break &^ subroutine."|12&^^^^^|13adjusted matrix|
+
+|1hardware|2mod|3shaper|4&^^^|5|6|7|8|9|10|11install @ on a non-ai icebreaker.\host icebreaker gains "{C}^^: +&^^^^ strength."|12&^^|13dedicated processor|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11the first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice.\{C}^: break &^ code gate subroutine.\{C}^: +&^ strength.|12&^^^^^^|13inversificator|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11when your turn begins, gain {C}^ if you have fewer than {C}^^^^^^.\whenever you have {C}, trash @ and take &^^^ meat damage.|12&|13dadiana chacon|
+
+|1identity|2cyborg|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1050|11the first time you make a successful run on archives each turn, the corp must trash &^ card from hq.|12|13alice merchant: clan agitator|
+
+|1resource|2clan, connection|3anarch|4&^^|5|6true|7|8|9|10|11when you install @, take &^ tag. place &^^^ power counters on @, and &^ additional power counter for each tag you have. when there are no power counters left on @, trash it.\the corp cannot trash @ while there is another resource installed.\hosted power counter: prevent &^ meat damage.|12&|13jarogniew mercs|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^^\{R}X\use these credits during runs on hq. x is the number of pieces of ice protecting hq.\limit &^ console per player.|12&^^^^^|13māui|
+
+|1resource|2|3criminal|4&^^|5|6|7|8|9|10|11when you install this resource, place X power counters on it.\when your turn ends, if you have no cards in your grip, draw &^ card for each hosted power counter, then trash this resource.|12X|13bug out bag|
+
+|1resource|2connection|3criminal|4&^^^|5|6true|7|8|9|10|11the first time you derez a piece of ice each turn, gain {C}^^.|12&^^|13keros mcintyre|
+
+|1hardware|2console|3shaper|4&^|5|6true|7|8|9|10|11+{M}^^\the first time you initiate a run on a server protected by &^^ or more pieces of ice each turn, draw &^^ cards.\limit &^ console per player.|12&^^^^^|13daredevil|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^|6|7|8&^^|9|10|11whenever this program fully breaks a piece of ice, the first &^^^ subroutines of the next encounter this run do not resolve.\{C}^^: break &^ code gate subroutine.\{C}^: +&^ strength.|12&^^^^^^^^|13mass-driver|
+
+|1event|2priority|3anarch|4&^|5|6|7|8|9|10|11play only as your first {O}.\draw &^ card for each installed clan resource. gain {C}^ for each tag you have.|12&|13mars for martians|
+
+|1program|2icebreaker, ai, virus|3anarch|4&^^^|5&|6|7|8&^|9|10|11when your turn begins, you may take &^ tag to place &^^ virus counters on this program.\hosted virus counter: break &^ subroutine.\{C}^^: +&^ strength.|12&^^^^|13god of war|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11make a run. when the run ends, derez all ice that was rezzed during this run.|12&^^|13leave no trace|
+
+|1event|2run|3criminal|4&^|5|6|7|8|9|10|11run hq. if successful, when you determine the number of cards in hq you are allowed to access during this run's breach of hq, you may add that many cards from your heap to your grip. if you do, you cannot access any cards in hq during this breach. \when the run ends, remove this event from the game.|12&^^^|13rip deal|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&|6|7|8&^|9|10|11{C}^^^^^^: derez the sentry you are encountering.\{C}^: +&^ strength.|12&^^^^^|13flashbang|
+
+|1event|2run|3shaper|4&^|5|6|7|8|9|10|11make a run. if you have &^^^ or fewer programs installed, all icebreakers have +&^^ strength during this run.|12&^^|13lean and mean|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&|6|7|8&^^|9|10|11this program gets +&^ strength for each installed program.\{C}^^: break &^ subroutine.|12&^^^^^|13maven|
+
+|1program|2icebreaker, killer|3shaper|4&^|5&^|6|7|8&^|9|10|11during runs, this program gets +&^ strength for each piece of ice protecting the attacked server.\{C}^: break &^ sentry subroutine.\{C}^^^: +&^^ strength.|12&^^^^|13na'not'k|
+
+|1resource|2location, seedy|3neutral|4&|5|6true|7|8|9|10|11when your turn begins, you may remove &^ card in the heap from the game. if you do, gain {C}^^.|12&^^^^|13bloo moose|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11play only if you made a successful run on a central server this turn.\the corp must pay {C}^^^^^ or take &^ bad publicity. remove @ from the game instead of trashing it.|12&^^|13mining accident|
+
+|1hardware|2cybernetic|3anarch|4&^^^|5|6|7|8|9|10|11when you install this hardware, suffer &^ meat damage.\the first time each turn you have no cards in your grip, draw &^ card and place &^ power counter on this hardware.\when this hardware has &^^^ or more hosted power counters, trash it.|12&|13respirocytes|
+
+|1resource|2clan|3anarch|4&^^^|5|6true|7|8|9|10|11{T}: the corp trashes the top x cards of r&d. x is equal to the amount of damage you have suffered this turn. use this ability only during the next paid ability window after suffering any amount of damage.|12&|13salvaged vanadis armory|
+
+|1program|2icebreaker, ai, virus|3criminal|4&^|5&|6|7|8&^|9|10|11this program gets +&^ strength for each hosted virus counter.\whenever you expose a card, place &^ virus counter on this program.\whenever you finish breaching a server, if you did not steal or trash any accessed cards, place &^ virus counter on this program.\{C}^: break &^ subroutine.|12&^^^|13aumakua|
+
+|1resource|2virtual|3criminal|4&^|5|6|7|8|9|10|11{C}^^^: prevent &^ net or brain damage.|12&^^^|13caldera|
+
+|1event|2run|3shaper|4&^^^^|5|6|7|8|9|10|11make a run. whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. when this run ends, trash all programs installed using @.|12&^^^^|13diana's hunt|
+
+|1event|2|3shaper|4&^^^^|5|6|7|8|9|10|11swap &^^ pieces of unrezzed ice.|12&^^^|13reshape|
+
+|1resource|2virtual|3shaper|4&^^|5|6|7|8|9|10|11trash a card from your grip: prevent an installed card of the same type from being trashed by the corp.|12&^|13dummy box|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11whenever the corp draws a card with the basic action, reveal that card.|12&|13corporate defector|
+
+|1identity|2g-mod|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time each turn you make a successful run on hq, you may choose &^^ cards in your heap. if you do, the corp removes &^ of those cards from the game, then you add the other card to your grip.|12|13steve cambridge: master grifter|
+
+|1event|2double|3criminal|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\derez a piece of ice that has a rez cost of X or lower.|12X|13brute-force-hack|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11make a run. when you encounter the innermost piece of ice protecting that server, bypass it.|12&^^|13spear phishing|
+
+|1event|2double|3criminal|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\the corp must either discard &^^ cards or draw &^^^^ cards.|12&^^|13syn attack|
+
+|1hardware|2console|3criminal|4&^^^^|5|6true|7|8|9|10|11+{M}^, +{L}^\the first time each turn you pass all of the ice protecting hq, you may draw &^ card to force the corp to draw &^ card.\limit &^ console per player.|12&^^^^|13polyhistor|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: +&^^ strength.\{T}: bypass the code gate you are encountering.|12&^^^^|13abagnale|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^^: +&^^^^^ strength.\{T}: bypass the sentry you are encountering.|12&^^^^^|13lustig|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^^: +&^^^ strength.\{T}: bypass the barrier you are encountering.|12&^^^^|13demara|
+
+|1program|2icebreaker, ai|3criminal|4&^^|5&|6|7|8&^|9|10|11hosted power counter: break &^ subroutine.\{C}^^: +&^^ strength.\when your turn begins, you may pay {C}X to place x power counters on this program.\when your turn ends, remove all hosted power counters.|12&^^^|13mammon|
+
+|1resource|2virtual|3criminal|4&^^^^|5|6|7|8|9|10|11{O}{O}: run any server. the first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. if you do, when you encounter that ice after this approach, bypass it.|12&^^^^^|13charlatan|
+
+|1resource|2connection|3criminal|4&^|5|6true|7|8|9|10|11+{L}^\{T}: derez a piece of ice protecting a remote server. use this ability only during the next paid ability window after a successful run on hq ends..|12&^|13maxwell james|
+
+|1identity|2natural|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11before drawing your starting hand, set aside the top &^^^^^^ cards of your stack facedown.  shuffle &^^ of those cards into your stack.\{O}: add &^ card set aside with this identity to your grip.|12|13ayla "bios" rahim: simulant specialist|
+
+|1event|2priority|3shaper|4&^^^^|5|6|7|8|9|10|11play only as your first {O}.\choose &^ card installed in the root of or protecting a remote server. that card cannot be rezzed this turn.|12&^^^|13careful planning|
+
+|1event|2run|3shaper|4&^^^^|5|6|7|8|9|10|11run r&d. if successful, access x additional cards when you breach r&d. x is equal to your unused mu or &^^^^, whichever is less.|12&^^^|13deep data mining|
+
+|1hardware|2mod|3shaper|4&^|5|6|7|8|9|10|11+{M}^, +{L}^\your maximum hand size is increased by &^.|12&^^^^|13llds memory diamond|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^\when your turn begins, draw &^ card.\limit &^ console per player.|12&^^^^^|13ubax|
+
+|1program|2icebreaker, fracter, killer|3shaper|4&^^^|5&^^|6|7|8&^^|9|10|11this program gets +&^ strength for each unused mu.\{C}^^: break &^ sentry or barrier subroutine.|12&^^^^^|13adept|
+
+|1program|2icebreaker, killer, decoder|3shaper|4&^^^|5&^|6|7|8&^^|9|10|11this program gets +&^ strength for each unused mu.\{C}^^: break &^ sentry or &^^ code gate subroutines.|12&^^^^|13savant|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11install only on a rezzed piece of ice.\host ice gains barrier, code gate, and sentry.|12&^^|13egret|
+
+|1program|2daemon|3shaper|4&^^|5|6|7|8&|9|10|11you can install other programs onto this program. each program installed this way costs {C}^ less to install. limit &^ hosted program.\the memory cost of the hosted program does not count against your memory limit.|12&^^|13dhegdheer|
+
+|1resource|2location, ritzy|3shaper|4&^^|5|6|7|8|9|10|11{O}: reveal the top &^^^^ cards of your stack. if any of those cards are programs, you may add &^ to your grip. add the rest of the cards to the bottom of your stack in any order.|12&^^^^|13levy advanced research lab|
+
+|1resource|2location, ritzy|3shaper|4&^^|5|6true|7|8|9|10|11whenever you take the basic action to draw cards, increase the number of cards you draw by &^.|12&^^^^^|13laguna velasco district|
+
+|1event|2|3neutral|4&^|5|6|7|8|9|10|11gain {C}^^ and draw &^ card.|12&|13process automation|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11{T}, {C}^: the corp trashes &^^ cards from hq at random. use this ability only if you suffered meat damage this turn.|12&|13officer frank|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11{T}: choose an icebreaker. until the end of the run, that icebreaker has +&^ strength for each card in your grip.|12&^^|13dean lister|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11{T}: prevent &^^ damage.|12&^^|13biometric spoofing|
+
+|1resource|2virtual|3neutral|4&|5|6true|7|8|9|10|11{O}, forfeit an agenda: play an event from your heap, ignoring all costs.|12&|13the shadow net|
+
+|1identity|2cyborg, g-mod|3anarch|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first piece of ice the corp rezzes each turn costs {C}^ more to rez.|12|13reina roja: freedom fighter|
+
+|1event|2run, sabotage|3anarch|4&^^|5|6|7|8|9|10|11run hq or r&d.\{C}: trash the card you are accessing.|12&^^|13demolition run|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, you may install &^ program from your heap, ignoring all costs.|12&^^^|13retrieval run|
+
+|1event|2double, run|3anarch|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\run a remote server. if successful, instead of breaching that server, trash all cards installed in the root of that server.|12&^^^^|13singularity|
+
+|1event|2run|3anarch|4&^|5|6|7|8|9|10|11place {C}^^^^^^^^^ on this event, then run any server. during that run, hosted credits are considered to be in your credit pool. when the run ends, suffer &^ brain damage, which cannot be prevented.|12&|13stimhack|
+
+|1hardware|2chip|3anarch|4&^|5|6|7|8|9|10|11{R}^\use this credit to pay for using icebreakers or for installing virus programs.|12&^^|13cyberfeeder|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^, {R}^^\use these credits to pay for using icebreakers.\whenever there is a successful trace during a run, suffer &^ brain damage.\limit &^ console per player.|12&^^^^|13spinal modem|
+
+|1program|2icebreaker, ai, virus|3anarch|4&^^^|5X|6|7|8&^|9|10|11{C}^^: break &^ subroutine.\x is equal to the number of hosted virus counters.\when your turn begins, you may pay {C}^ to place &^ virus counter on this program.|12&^^^|13darwin|
+
+|1program|2virus|3anarch|4&^|5|6|7|8&^|9|10|11whenever you make a successful run on a central server, place &^ virus counter on @.\hosted virus counter: rezzed piece of ice currently being encountered has -&^ strength until the end of the encounter.|12&^|13datasucker|
+
+|1program|2icebreaker, decoder|3anarch|4&^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ code gate subroutines.\{C}^: +&^ strength.|12&^^^^^|13force of nature|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\hosted virus counter: trash the card you are accessing. use this ability only once per turn.|12&^^|13imp|
+
+|1program|2virus|3anarch|4&^^^^|5|6|7|8&^|9|10|11whenever you make a successful run, place &^ virus counter on @.\{O}, &^^ hosted virus counters: the corp trashes &^ card from hq.|12&^^^|13hemorrhage|
+
+|1program|2icebreaker, killer|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.|12&^^^|13mimic|
+
+|1program|2icebreaker, fracter|3anarch|4&^^^^|5&^^^^^|6|7|8&^^|9|10|11{C}^: break any number of barrier subroutines.|12&^^^^^^^^|13morning star|
+
+|1resource|2virtual|3anarch|4&^^^|5|6true|7|8|9|10|11while you are encountering a piece of ice, it gets -&^ strength.|12&^^^|13ice carver|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^ onto it. when it is empty, trash it.\{O}: take {C}^^^^ from this resource.|12&^^^^^^|13liberated account|
+
+|1resource|2connection, seedy|3anarch|4&^|5|6|7|8|9|10|11{R}^^ \you can spend hosted credits to pay trash costs.|12&^^|13scrubber|
+
+|1resource|2virtual|3anarch|4&^^|5|6true|7|8|9|10|11the rez cost of each piece of ice is increased by {C}^.|12&^^^|13xanadu|
+
+|1identity|2cyborg|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time you make a successful run on hq each turn, gain {C}^^.|12|13gabriel santiago: consummate professional|
+
+|1event|2job|3criminal|4&^|5|6|7|8|9|10|11gain {C}^^^.|12&|13easy mark|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on hq this turn.\derez &^ installed piece of ice.|12&|13emergency shutdown|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11choose &^ unrezzed piece of ice. the corp may rez that ice. if they do not, they trash it.|12&^|13forged activation orders|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run any server. the first time this run you encounter a piece of ice, bypass it.|12&^^|13inside job|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11search your stack for an icebreaker, reveal it, and add it to your grip. shuffle your stack.|12&^|13special order|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\once per turn, you may immediately make another run when a successful run ends.\limit &^ console per player.|12&^^^|13doppelgänger|
+
+|1hardware|2|3criminal|4&^^|5|6|7|8|9|10|11whenever you breach hq, access &^ additional card.|12&^^^^|13hq interface|
+
+|1program|2icebreaker, fracter|3criminal|4&^|5&^|6|7|8&^|9|10|11{C}^^: break &^ barrier subroutine.\{C}^^: +&^^^ strength.|12&^^^|13aurora|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^^|6|7|8&^|9|10|11{C}: break &^ sentry subroutine.\{C}^: +&^ strength.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.|12&|13faerie|
+
+|1program|2icebreaker, killer|3criminal|4&^|5&^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength.\when you install this program, choose &^ installed piece of ice.\whenever you encounter the chosen ice, you may pay {C}^ for each subroutine it has. if you do, bypass that ice.|12&^^^^^^^^^|13femme fatale|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^^: break &^ code gate subroutine.\{C}^^: +&^^^ strength.|12&^^^|13peacock|
+
+|1program|2virus|3criminal|4&^^|5|6|7|8&^|9|10|11{R}X\use these credits during runs on hq. x is the number of virus counters on @.\whenever you make a successful run on hq, place &^ virus counter on @.|12&^^|13pheromones|
+
+|1program|2|3criminal|4&^^^|5|6|7|8&^^|9|10|11{O}: run archives. if that run would be declared successful, change the attacked server to hq for the remainder of that run.|12&^^^^|13sneakdoor beta|
+
+|1resource|2job|3criminal|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^ on it. when it is empty, trash it.\whenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource.|12&^|13bank job|
+
+|1resource|2location|3criminal|4&^^|5|6|7|8|9|10|11{R}^^\use these credits to pay for removing tags.\{T}: prevent up to &^^^ meat damage.|12&^^|13crash space|
+
+|1resource|2connection|3criminal|4&^|5|6|7|8|9|10|11{T}: prevent another installed resource from being trashed.\{T}: gain {C}^^.|12&|13fall guy|
+
+|1resource|2connection|3criminal|4&^^|5|6true|7|8|9|10|11{O}: draw &^^ cards. when you do, add &^ of those cards to the bottom of your stack.|12&^^^|13mr. li|
+
+|1identity|2g-mod|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11+{M}^|12|13chaos theory: wünderkind|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11draw &^^^ cards.|12&|13diesel|
+
+|1event|2run|3shaper|4&^^^|5|6|7|8|9|10|11run r&d. if successful, instead of breaching r&d, you may look at the top &^^^^^ cards of r&d and arrange them in any order.|12&|13indexing|
+
+|1event|2mod|3shaper|4&^^|5|6|7|8|9|10|11install a program or piece of hardware, lowering the install cost by &^^^.|12&|13modded|
+
+|1event|2|3shaper|4&^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\add @ to your score area as an agenda worth &^ agenda point.|12&^|13notoriety|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11search either your stack or your heap for &^ program.  install that program, ignoring all costs. when your turn ends, if that program has not been uninstalled, add it to the top of your stack.|12&^^^|13test run|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run r&d. if successful, access &^^ additional cards when you breach r&d.|12&^^|13the maker's eye|
+
+|1event|2mod|3shaper|4&^^^^|5|6|7|8|9|10|11choose a piece of ice. that ice gains sentry, code gate, and barrier until the end of the turn.|12&|13tinkering|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11@ can host a single non-ai icebreaker. the memory cost of the hosted icebreaker does not count against your memory limit.\hosted icebreaker has +&^^ strength.\limit &^ console per player.|12&^^^^^|13dinosaurus|
+
+|1hardware|2link|3shaper|4&^|5|6|7|8|9|10|11+{L}^\when @ is installed, you may search your stack for another copy of @ and install it by paying its install cost. shuffle your stack.|12&^^|13rabbit hole|
+
+|1hardware|2mod|3shaper|4&^^|5|6|7|8|9|10|11install @ only on an icebreaker.\host icebreaker has +&^ strength.|12&^^|13the personal touch|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^^^|6|7|8&^^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^: +&^ strength for the remainder of this run.|12&^^^^^|13battering ram|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength for the remainder of this run.|12&^^^^|13gordian blade|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^^|9|10|11{O}: gain {C}^^.|12&^^^^^|13magnum opus|
+
+|1program|2icebreaker, killer|3shaper|4&^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength for the remainder of this run.|12&^^^|13pipeline|
+
+|1resource|2connection, location|3shaper|4&^^|5|6true|7|8|9|10|11when your turn begins, you may trash &^ of your other installed cards. if you do, gain {C}^^^.|12&^|13aesop's pawnshop|
+
+|1resource|2|3shaper|4&^^|5|6|7|8|9|10|11{O}, {T}: gain {O}{O}.|12&|13all-nighter|
+
+|1resource|2remote|3shaper|4&^|5|6|7|8|9|10|11{T}: prevent an installed program or an installed piece of hardware from being trashed.|12&|13sacrificial construct|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^ or expose &^ card.|12&|13infiltration|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^^^^^^^^.|12&^^^^^|13sure gamble|
+
+|1hardware|2chip, link|3neutral|4&|5|6|7|8|9|10|11+{M}^, +{L}^|12&^^^|13dyson mem chip|
+
+|1program|2icebreaker, ai, virus|3neutral|4&|5&|6|7|8&^|9|10|11{C}^: break &^ subroutine.\{C}^: +&^ strength.\{O}: place &^ virus counter on this program.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove &^ hosted virus counter or trash this program.|12&^^^^^|13crypsis|
+
+|1resource|2job|3neutral|4&|5|6|7|8|9|10|11place {C}^^ from the bank on @ when it is installed. when there are no credits left on @, trash it.\{O}: take {C}^^ from @.|12&^|13armitage codebusting|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11when your turn begins, gain {C}^ if you have at least {L}^^.|12&^^|13underworld contact|
+
+|1event|2priority, sabotage|3anarch|4&^^^^^|5|6|7|8|9|10|11play only as your first {O}.\for the remainder of the turn, whenever you access a card not in archives, trash it and suffer &^ meat damage.|12&^^|13by any means|
+
+|1program|2icebreaker, fracter, virus|3anarch|4&^^|5&^^^|6|7|8&^^|9|10|11whenever you make a successful run, you may place &^ virus counter on this program.\any virus counter: break &^ barrier subroutine.\any virus counter: +&^ strength.|12&^|13yusuf|
+
+|1hardware|2console|3criminal|4&^^^|5|6true|7|8|9|10|11+{M}^^\whenever a corp card is exposed, you may gain {C}^.\limit &^ console per player.|12&^^^^|13zamba|
+
+|1program|2icebreaker, killer|3criminal|4&^^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength.\{O}: place &^ power counter on this program or remove &^ hosted power counter.\this program gets +&^ strength and costs +{M}^ for each hosted power counter.|12&^^^^|13puffer|
+
+|1resource|2connection|3criminal|4&^^^^|5|6true|7|8|9|10|11when your turn begins, either lose {C}^ or trash @.\the corp's maximum hand size is reduced by &^.|12&|13lewi guilherme|
+
+|1hardware|2chip|3shaper|4&^^^|5|6|7|8|9|10|11+{M}^\the first time each turn you fully break a piece of ice, gain {C}^.|12&^^^|13cyberdelia|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^|9|10|11whenever you make a successful run on r&d, you may place &^ power counter on @.\{O}, &^^^ hosted power counters: gain {O}{O}. use this ability only once per turn.|12&|13upya|
+
+|1resource|2virtual|3apex|4&^^^^^|5|6|7|8|9|10|11{O},{O}: turn &^ of your facedown installed cards faceup. if that card is an event, trash it.|12&^^^^^|13assimilator|
+
+|1hardware|2|3anarch|4&^|5|6|7|8|9|10|11whenever the corp purges virus counters, you may gain {C}^ for each virus counter removed and trash @.|12&^|13acacia|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11when you install @, choose a server.\whenever you make a successful run on the chosen server, you may place &^^ virus counters on @.|12&^^|13plague|
+
+|1event|2|3criminal|4&^^^|5|6|7|8|9|10|11play only if you made a successful run on a central server this turn.\install a card from your grip, lowering its install cost by {C}^^^^^^^^, and take &^ tag.|12&|13credit kiting|
+
+|1program|2|3criminal|4&^^^^|5|6true|7|8&^|9|10|11the first time you make a successful run on hq each turn, you may trash @ to name sentry, code gate or barrier. expose a piece of ice, then add it to hq if it has the named subtype.|12&^|13wari|
+
+|1identity|2g-mod|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11{O}: search your stack for a non-virus program and install it, lowering its install cost by {C}^, then shuffle your stack. if that program is still installed when your turn ends, remove it from the game.|12|13kabonesa wu: netspace thrillseeker|
+
+|1program|2|3shaper|4&^^^|5|6true|7|8&^|9|10|11whenever you fully break a piece of ice, you may place &^ power counter on this program.\&^^ hosted power counters: choose &^ installed non-ai icebreaker. that icebreaker gets +&^^^ strength for the remainder of the current encounter.|12&^^|13takobi|
+
+|1resource|2virtual|3shaper|4&^|5|6|7|8|9|10|11{T}: break the first subroutine on the encountered piece of ice.|12&^|13kongamato|
+
+|1event|2double|3adam|4&^^^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\trash any number of programs and/or pieces of hardware from your grip. search your stack for &^ program or piece of hardware. install it, paying {C}X less. x is equal to the total install cost of the trashed cards.|12&^^|13emergent creativity|
+
+|1program|2|3neutral|4&|5|6true|7|8&^|9|10|11the first time you make a successful run on hq or r&d each turn, you may name a number. if you do, reveal the next card that you access this run. if it has a rez cost, play cost, or advancement requirement equal to the named number, either gain {C}^^^ or draw &^^ cards.|12&|13rng key|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11whenever you breach r&d, access &^ additional card.\when the corp purges virus counters, trash this program.|12&^^|13exer|
+
+|1hardware|2chip|3anarch|4&^^|5|6|7|8|9|10|11whenever you trash a corp card, you may place &^ virus counter on @.\when your turn begins, you may move &^ hosted virus counter to a virus program.|12&^^|13friday chip|
+
+|1resource|2virtual|3anarch|4&^|5|6|7|8|9|10|11whenever you make a successful run on archives, you may place &^ virus counter on @.\{O}, {T}, &^^^ hosted virus counters: search your stack for a virus program and install it (paying its install cost), then shuffle your stack.|12&|13crypt|
+
+|1event|2current|3criminal|4&^^^|5|6|7|8|9|10|11this card is not trashed until another current is played or an agenda is scored.\the first time you install a card each turn, the corp loses {C}^.|12&^|13corporate "grant"|
+
+|1resource|2virtual|3criminal|4&^|5|6|7|8|9|10|11the first time you would take any number of tags or suffer any amount of net damage each turn, you may trash @ to force the corp to "{#} if unsuccessful, the runner avoids any number of tags or prevents any amount of net damage."|12&|13no one home|
+
+|1event|2run|3shaper|4&^^^^^|5|6|7|8|9|10|11make a run on a remote server. when the run ends, gain {O} and add @ to your grip instead of trashing it if the run was successful. you may not make another run on that server for the remainder of this turn.|12&^|13marathon|
+
+|1resource|2virtual|3shaper|4&^|5|6|7|8|9|10|11{T}: break the last subroutine on the encountered piece of ice.|12&^^|13gbahali|
+
+|1event|2|3sunny|4&^^^^^|5|6|7|8|9|10|11play only if you made a successful run on a central server this turn.\force the corp to "{#}^^^ if unsuccessful, reveal all cards in hq. the runner may choose up to &^^ of the revealed cards. shuffle those cards into r&d."|12&|13white hat|
+
+|1event|2run, sabotage|3anarch|4&^^^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, the corp adds exactly &^^^^^ cards from archives to hq, if able. if they do, they trash &^^^^^ cards from hq at random.|12&^^|13glut cipher|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^^^\use the mu on @ only for virus programs.\the first time you make a successful run each turn, you may place &^ virus counter on an installed virus program.\limit &^ console per player.|12&^^^^^|13knobkierie|
+
+|1identity|2natural|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first time the corp installs a card each turn, you may expose that card unless the corp pays {C}^.|12|13419: amoral scammer|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11name a card type. expose a card in a remote server, then gain {C}^^^^^ if the exposed card has the named card type.|12&^|13falsified credentials|
+
+|1resource|2job|3criminal|4&^^|5|6|7|8|9|10|11place {C}^^^^^^^^ from the bank on @ when it is installed. when there are no credits left on @, trash it.\{O}, {O}: take {C}^^^^^^ from @ and take &^ tag.|12&|13rogue trading|
+
+|1event|2run|3shaper|4&^|5|6|7|8|9|10|11run a remote server. if successful, instead of breaching that server, you may force the corp to shuffle all cards in the root of that server into r&d.|12&|13because i can|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^^ power counters on it.\whenever you breach r&d, you may remove &^ hosted power counter to access &^ additional card.|12&^^|13nyashia|
+
+|1program|2virus|3apex|4&^^^^^|5|6|7|8&|9|10|11whenever you trash a corp card, you may place &^ virus counter on @.\{O}: gain {C}^^ for each hosted virus counter, then remove all virus counters from @.|12&^^|13consume|
+
+|1identity|2cyborg|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11any x virus counters: trash the non-agenda card you are accessing. x is equal to that card's rez or play cost. use this ability only once per turn.|12|13freedom khumalo: crypto-anarchist|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11install @ only on a piece of ice.\when @ has &^^^^^ or more virus counters on it, trash host ice.\when your turn begins, you may place &^ virus counter on @.|12&^^|13trypano|
+
+|1event|2|3anarch|4&^|5|6|7|8|9|10|11place &^^^ virus counters on an installed runner card with no hosted virus counters.|12&^|13contaminate|
+
+|1event|2run, sabotage|3criminal|4&^^^|5|6|7|8|9|10|11run hq. if successful, instead of breaching hq, name asset, ice, operation or upgrade, then reveal &^^ cards from hq at random. trash each revealed card that has the named type, then gain {C}^^^^ for each card trashed this way.|12&^|13embezzle|
+
+|1resource|2virtual|3criminal|4&^^|5|6|7|8|9|10|11whenever you pass a rezzed piece of ice, you may trash this resource. if you do, choose &^ piece of ice protecting a central server in the same position as the passed ice. move to that ice and approach it. you may jack out.|12&|13slipstream|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^^|6|7|8&^^|9|10|11whenever you encounter a piece of ice, you may pay {C}^^. if you do, it gains barrier for the remainder of that encounter. use this ability only once per turn.\{C}^^: break any number of barrier subroutines.\{C}^^^: +&^^^^^^ strength.|12&^^^^|13laamb|
+
+|1hardware|2mod|3shaper|4&^^^^|5|6true|7|8|9|10|11{O}: host this hardware on an installed non-ai icebreaker.\abilities that increase host icebreaker's strength last for the remainder of the turn .|12&^|13gebrselassie|
+
+|1event|2run|3shaper|4&^^^|5|6|7|8|9|10|11make a run. the first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. when the run ends, add that program to the bottom of your stack if it is still installed.|12&^^|13compile|
+
+|1resource|2virtual|3adam|4&^^^^^|5|6|7|8|9|10|11{T}: bypass a piece of ice you are currently encountering. lose any remaining clicks.|12&|13logic bomb|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11when your turn begins, you may place {C}^ on @.\whenever an agenda is added to your score area, you may take any number of credits from @. if you do, trash @.|12&|13jackpot!|
+
+|1hardware|2|3anarch|4&^^^|5|6true|7|8|9|10|11{O}, suffer &^ net damage: gain {C}^ and draw &^^ cards. use this ability only once per turn.|12&^|13zer0|
+
+|1program|2icebreaker, killer, virus|3anarch|4&^^|5&^|6|7|8&^^|9|10|11whenever you make a successful run, you may place &^ virus counter on this program.\any virus counter: break sentry subroutine.\any virus counter: +&^ strength.|12&^|13musaazi|
+
+|1hardware|2|3anarch|4&^^^^^|5|6true|7|8|9|10|11the first time each turn you fully break the outermost piece of ice protecting the attacked server during a run, you may remove this hardware from the game to trash that ice.|12&^^|13hippo|
+
+|1program|2icebreaker, decoder|3criminal|4&^^^^|5&^^^|6|7|8&^|9|10|11{C}^^: break up to &^^^ code gate subroutines.\{C}^^: +&^^^ strength.\the first time each turn this program fully breaks a piece of ice, the corp loses {C}^.|12&^^^^^^^|13amina|
+
+|1event|2double, run, sabotage|3criminal|4&^^^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\run hq. if successful, instead of breaching hq, you may force the corp to lose up to {C}^^^^^, then you gain {C}^ for each credit lost.|12&^|13diversion of funds|
+
+|1resource|2|3criminal|4&^|5|6|7|8|9|10|11the first time the corp gains credits through a card ability each turn, you may gain {C}^.\{O}, {C}^^^: trash @. only the corp can use this ability.|12&|13pad tap|
+
+|1resource|2|3shaper|4&^^|5|6|7|8|9|10|11{O}, {T}, trash a card from your grip: install a program, piece of hardware, or virtual resource from your heap, paying its install cost.|12&|13reclaim|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^^|5&^^|6|7|8&^^|9|10|11whenever you encounter a piece of ice, you may pay {C}^^. if you do, it gains code gate for the remainder of that encounter. use this ability only once per turn.\{C}^: break &^ code gate subroutine.\{C}^^: +&^^^^ strength.|12&^^^^^|13engolo|
+
+|1hardware|2mod|3shaper|4&^^^|5|6true|7|8|9|10|11@ can host a single program.\when you install @, place {C}^^^^^^^^^ on it. use these credits to pay for using hosted program.\when a turn ends in which you used credits on @, trash hosted program.|12&^^|13flame-out|
+
+|1event|2|3sunny|4&^^^^^|5|6|7|8|9|10|11the corp must {#}^^^^. if unsuccessful, for the remainder of the turn, access &^^ additional cards whenever you breach hq or r&d.|12&^^|13black hat|
+
+|1resource|2virtual|3neutral|4&|5|6true|7|8|9|10|11the first time each turn a successful run on a remote server ends, if you breached the server but stole no agendas, you may place &^ power counter on this resource.\when this resource has &^^^^ or more hosted power counters, add it to your score area as an agenda worth &^ agenda point.|12&^|13kasi string|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11when your turn begins, gain {C}^ if you have &^^ or fewer cards in your grip.|12|13nathaniel "gnat" hall: one-of-a-kind|
+
+|1event|2run|3anarch|4&^^^^|5|6|7|8|9|10|11run archives. if successful, after breaching archives, breach hq, then breach r&d. you cannot access cards in the root of hq or r&d during these breaches.|12&^^^|13divide and conquer|
+
+|1event|2|3anarch|4&^^^|5|6|7|8|9|10|11trash your grip.\gain {C}.|12&^^^^|13guinea pig|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^\whenever you would play or install a card, you may trash &^ card from your grip. if you do, instead play or install that card paying {C}^^ less. use this ability only once per turn.\limit &^ console per player.|12&^^^^|13patchwork|
+
+|1hardware|2|3anarch|4&^^|5|6true|7|8|9|10|11whenever the corp creates a server, he or she loses {C}^.\whenever you make a successful run on archives, you may trash @ to force the corp to lose {C}^^^.|12&^^|13hijacked router|
+
+|1program|2icebreaker, decoder|3anarch|4&^^^|5&^^^^^|6|7|8&^|9|10|11this program gets -&^ strength for each card in your grip.\{C}^^: break any number of code gate subroutines.|12&^^^^|13cradle|
+
+|1resource|2location, seedy|3anarch|4&^^^|5|6true|7|8|9|10|11the first time each turn a program or a piece of hardware is trashed (from any location), you may place &^ power counter on @.\{O}, &^^^ hosted power counters: add a card that matches the faction of your identity from your heap to your grip.|12&^^^|13district 99|
+
+|1identity|2g-mod|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1050|11the first time you make a successful run on a central server each turn, draw &^^ cards and take &^ tag.|12|13liza talking thunder: prominent legislator|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11make a run on hq. if successful, gain {C}^^^^^^^^^ and take &^ tag.|12&^^|13hot pursuit|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\the first time you make a successful run each turn, you may gain {C}^ and look at the top card of your stack. if you do, you may add that card to the bottom of your stack.\limit &^ console per player.|12&^^^|13paragon|
+
+|1program|2|3criminal|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run, you may place {C}^ from the bank on @.\{T}: take all credits from @.|12&^|13bankroll|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^: break up to &^^ barrier subroutines.\{C}^^: +&^^^ strength.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, the corp gains {C}^^.|12&^|13tycoon|
+
+|1resource|2location, ritzy|3criminal|4&^^|5|6true|7|8|9|10|11the first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by &^.|12&^^^|13thunder art gallery|
+
+|1resource|2connection|3criminal|4&^^|5|6true|7|8|9|10|11place {C}^^ from the bank on @ when she is installed. when there are no credits left on @, trash her.\use these credits to trash installed cards.|12&^^|13miss bones|
+
+|1identity|2clone|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^|1045|11whenever you breach r&d, you and the corp secretly spend {C}, {C}^, or {C}^^. reveal spent credits. if you and the corp spent the same number of credits, access &^ additional card.|12|13akiko nisei: head case|
+
+|1event|2double|3shaper|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\the corp may look at the top &^^^^ cards of r&d and arrange them in any order.\reveal the top &^^^^ cards of r&d.|12&|13insight|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^\whenever you make a successful run on r&d, you may place &^ power counter on this hardware.\{O}, &^^^ hosted power counters: breach r&d. you cannot access cards in the root of r&d during this breach.\limit &^ console per player.|12&^^^|13mind's eye|
+
+|1hardware|2|3shaper|4&^^^|5|6true|7|8|9|10|11the first time you trash an accessed card each turn, you may place power counters on @ equal to that card's trash cost.\&^^^ hosted power counters: draw &^ card.|12&^|13mâché|
+
+|1program|2icebreaker, killer|3shaper|4&^^|5&^^|6|7|8&^|9|10|11{C}^^: host this program on a piece of ice.\{C}^: break up to &^^ subroutines on host sentry.\{C}^^: +&^^^ strength.|12&|13ika|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11install @ only on a piece of ice.\gain {C}^^ whenever you pass host ice.|12&|13kyuban|
+
+|1resource|2connection|3shaper|4&^^^^|5|6true|7|8|9|10|11the first time each turn a successful run on r&d ends, you may gain {C}^ for each time you accessed a card in r&d during that run.|12&^|13psych mike|
+
+|1program|2|3adam|4&^^^^^|5|6true|7|8&^|9|10|11when your turn begins, you may pay {C}^^ to gain {O}. if you do, trash @ when your turn ends if you did not make a successful run this turn.|12&|13algernon|
+
+|1event|2run|3apex|4&^^^^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, install up to &^^^^^ cards from your heap facedown.\remove this operation from the game.|12&^|13reboot|
+
+|1event|2|3sunny|4&^^^|5|6|7|8|9|10|11reduce the play cost of @ by &^ for each {L} you have.\gain {C}^^^^ or draw &^^^^ cards.|12&^^^^|13office supplies|
+
+|1resource|2connection|3neutral|4&^|5|6true|7|8|9|10|11host a g-mod identity that does not match the faction of your identity on @ when he is installed. remove hosted identity from the game if @ is uninstalled.\@ gains the text of hosted identity.\limit &^ per deck.|12&^^^|13dj fenris|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11trash the top &^^^ cards of your stack. shuffle &^^^ cards from your heap into your stack. draw &^ card. remove this event from the game instead of trashing it.|12&|13labor rights|
+
+|1resource|2seedy, virtual|3criminal|4&^^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^ onto it. when it is empty, trash it and draw &^ card.\when your turn begins, take {C}^ from this resource.\when your turn ends, if you made at least &^^^ successful runs this turn and this card is in your heap, you may install it, ignoring all costs.|12&|13crowdfunding|
+
+|1event|2orgcrime, run, terminal|3neutral|4&^|5|6|7|8|9|10|11after you resolve this event, end your action phase.\make a run on a remote server. if successful, remove the first non-agenda card that you access from the game.\until the game ends, whenever you access a copy of that card, remove it from the game.\limit &^ per deck.|12&^^^|13watch the world burn|
+
+|1identity|2cyborg, g-mod|3anarch|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first piece of ice the corp rezzes each turn costs {C}^ more to rez.|12|13reina roja: freedom fighter|
+
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11{C}: break &^ barrier subroutine. use this ability only once per turn.|12|13quetzal: free spirit|
+
+|1event|2double|3anarch|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\place up to &^^^ advancement counters on &^ unrezzed card in the root of a remote server. gain {C}^^ for each counter placed this way. you cannot access that card for the remainder of the turn.|12&|13queen's gambit|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\access &^ installed card (non-ice).|12&|13quest completed|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, you may install &^ program from your heap, ignoring all costs.|12&^^^|13retrieval run|
+
+|1event|2run, sabotage|3anarch|4&^^^|5|6|7|8|9|10|11make a run. when the run ends, trash &^ piece of ice that was rezzed during this run.|12&^^^|13run amok|
+
+|1event|2run|3anarch|4&^|5|6|7|8|9|10|11place {C}^^^^^^^^^ on this event, then run any server. during that run, hosted credits are considered to be in your credit pool. when the run ends, suffer &^ brain damage, which cannot be prevented.|12&|13stimhack|
+
+|1hardware|2chip|3anarch|4&^|5|6|7|8|9|10|11{R}^\use this credit to pay for using icebreakers or for installing virus programs.|12&^^|13cyberfeeder|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^\whenever you would play or install a card, you may trash &^ card from your grip. if you do, instead play or install that card paying {C}^^ less. use this ability only once per turn.\limit &^ console per player.|12&^^^^|13patchwork|
+
+|1program|2icebreaker, fracter|3anarch|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^: +&^ strength.|12&^^|13corroder|
+
+|1program|2virus|3anarch|4&^|5|6|7|8&^|9|10|11whenever you make a successful run on a central server, place &^ virus counter on @.\hosted virus counter: rezzed piece of ice currently being encountered has -&^ strength until the end of the encounter.|12&^|13datasucker|
+
+|1program|2icebreaker, decoder|3anarch|4&^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ code gate subroutines.\{C}^: +&^ strength.|12&^^^^^|13force of nature|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\hosted virus counter: trash the card you are accessing. use this ability only once per turn.|12&^^|13imp|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11whenever you make a successful run on hq, the corp loses {C}^.\trash @ if the corp purges virus counters.|12&^|13lamprey|
+
+|1program|2icebreaker, killer|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.|12&^^^|13mimic|
+
+|1resource|2virtual|3anarch|4&^^^|5|6true|7|8|9|10|11while you are encountering a piece of ice, it gets -&^ strength.|12&^^^|13ice carver|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^ onto it. when it is empty, trash it.\{O}: take {C}^^^^ from this resource.|12&^^^^^^|13liberated account|
+
+|1resource|2connection, seedy|3anarch|4&^|5|6|7|8|9|10|11{R}^^ \you can spend hosted credits to pay trash costs.|12&^^|13scrubber|
+
+|1resource|2virtual|3anarch|4&^^|5|6true|7|8|9|10|11the rez cost of each piece of ice is increased by {C}^.|12&^^^|13xanadu|
+
+|1identity|2cyborg|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time you make a successful run on hq each turn, gain {C}^^.|12|13gabriel santiago: consummate professional|
+
+|1identity|2natural|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11whenever an agenda is scored or stolen, add &^ unrezzed card to hq.|12|13leela patel: trained pragmatist|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11install &^ resource from your grip, paying {C}^^^ less.|12&|13career fair|
+
+|1event|2job|3criminal|4&^|5|6|7|8|9|10|11gain {C}^^^.|12&|13easy mark|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on hq this turn.\derez &^ installed piece of ice.|12&|13emergency shutdown|
+
+|1event|2double|3criminal|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\search your stack for a connection, reveal it, and add it to your grip. you may install that connection (paying its install cost). shuffle your stack.|12&^|13hostage|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run any server. the first time this run you encounter a piece of ice, bypass it.|12&^^|13inside job|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11run hq. if successful, access &^^ additional cards when you breach hq.|12&^^|13legwork|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11remove &^ tag. then, you may pay {C}^ to add this event to your grip.|12&|13networking|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11make a run. when you encounter the innermost piece of ice protecting that server, bypass it.|12&^^|13spear phishing|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11search your stack for an icebreaker, reveal it, and add it to your grip. shuffle your stack.|12&^|13special order|
+
+|1hardware|2|3criminal|4&^^|5|6|7|8|9|10|11whenever you breach hq, access &^ additional card.|12&^^^^|13hq interface|
+
+|1hardware|2console|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\the first time you make a successful run each turn, you may gain {C}^ and look at the top card of your stack. if you do, you may add that card to the bottom of your stack.\limit &^ console per player.|12&^^^|13paragon|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: +&^^ strength.\{T}: bypass the code gate you are encountering.|12&^^^^|13abagnale|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^|6|7|8&^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^^: +&^^^ strength.\{T}: bypass the barrier you are encountering.|12&^^^^|13demara|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^^|6|7|8&^|9|10|11{C}: break &^ sentry subroutine.\{C}^: +&^ strength.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.|12&|13faerie|
+
+|1program|2icebreaker, killer|3criminal|4&^|5&^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength.\when you install this program, choose &^ installed piece of ice.\whenever you encounter the chosen ice, you may pay {C}^ for each subroutine it has. if you do, bypass that ice.|12&^^^^^^^^^|13femme fatale|
+
+|1program|2|3criminal|4&^^^|5|6|7|8&^^|9|10|11{O}: run archives. if that run would be declared successful, change the attacked server to hq for the remainder of that run.|12&^^^^|13sneakdoor beta|
+
+|1resource|2job|3criminal|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^ on it. when it is empty, trash it.\whenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource.|12&^|13bank job|
+
+|1resource|2connection, seedy|3criminal|4&^^|5|6|7|8|9|10|11{O}, forfeit &^ agenda: gain {C}^^^^^^^^^.|12&|13data dealer|
+
+|1identity|2g-mod|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11+{M}^|12|13chaos theory: wünderkind|
+
+|1identity|2cyborg|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^|1045|11the first time each turn you encounter a piece of ice, it gains code gate for the remainder of this run.|12|13rielle "kit" peddler: transhuman|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11draw &^^^ cards.|12&|13diesel|
+
+|1event|2mod|3shaper|4&^^|5|6|7|8|9|10|11install a program or piece of hardware, lowering the install cost by &^^^.|12&|13modded|
+
+|1event|2|3shaper|4&^|5|6|7|8|9|10|11play only if you made a successful run on r&d, hq, and archives this turn.\add @ to your score area as an agenda worth &^ agenda point.|12&^|13notoriety|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11search either your stack or your heap for &^ program.  install that program, ignoring all costs. when your turn ends, if that program has not been uninstalled, add it to the top of your stack.|12&^^^|13test run|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run r&d. if successful, access &^^ additional cards when you breach r&d.|12&^^|13the maker's eye|
+
+|1event|2mod|3shaper|4&^^^^|5|6|7|8|9|10|11choose a piece of ice. that ice gains sentry, code gate, and barrier until the end of the turn.|12&|13tinkering|
+
+|1hardware|2chip|3shaper|4&^|5|6|7|8|9|10|11+{M}^|12&^|13akamatsu mem chip|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11@ can host a single non-ai icebreaker. the memory cost of the hosted icebreaker does not count against your memory limit.\hosted icebreaker has +&^^ strength.\limit &^ console per player.|12&^^^^^|13dinosaurus|
+
+|1hardware|2|3shaper|4&^^|5|6|7|8|9|10|11whenever you breach r&d, access &^ additional card.|12&^^^^|13r&d interface|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&|6|7|8&^|9|10|11when you install this program, you may pay {C}X to place x power counters on it.\this program gets +&^ strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\{C}^: break &^ subroutine.|12&^^^|13atman|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^^^|6|7|8&^^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^: +&^ strength for the remainder of this run.|12&^^^^^|13battering ram|
+
+|1program|2icebreaker|3shaper|4&^|5&^^^^^^^^^^|6|7|8&^|9|10|11{T}: break any number of ap subroutines.\{T}: prevent any amount of net damage.|12&^^^|13deus x|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength for the remainder of this run.|12&^^^^|13gordian blade|
+
+|1program|2icebreaker, killer|3shaper|4&^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength for the remainder of this run.|12&^^^|13pipeline|
+
+|1resource|2connection, location|3shaper|4&^^|5|6true|7|8|9|10|11when your turn begins, you may trash &^ of your other installed cards. if you do, gain {C}^^^.|12&^|13aesop's pawnshop|
+
+|1resource|2virtual|3shaper|4&^|5|6|7|8|9|10|11whenever the corp rezzes a piece of ice, place {C}^ on @.\you may use credits on @ to install programs.|12&|13ice analyzer|
+
+|1resource|2connection|3shaper|4&^^|5|6|7|8|9|10|11{O}: gain {C}^ and draw &^ card.|12&^^^^^|13professional contacts|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^^^^^^^^.|12&^^^^^|13sure gamble|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11run any server. when that run ends, if it was successful, gain {C}^^^^^.|12&^^|13dirty laundry|
+
+|1program|2icebreaker, ai, virus|3neutral|4&|5&|6|7|8&^|9|10|11{C}^: break &^ subroutine.\{C}^: +&^ strength.\{O}: place &^ virus counter on this program.\whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove &^ hosted virus counter or trash this program.|12&^^^^^|13crypsis|
+
+|1resource|2job|3neutral|4&|5|6|7|8|9|10|11place {C}^^ from the bank on @ when it is installed. when there are no credits left on @, trash it.\{O}: take {C}^^ from @.|12&^|13armitage codebusting|
+
+|1resource|2location, ritzy|3neutral|4&|5|6true|7|8|9|10|11when you install this resource, load &^^^ power counters onto it. when it is empty, trash it.\when your turn begins, remove &^ hosted power counter and draw &^^ cards.|12&^^^^|13earthrise hotel|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11the first time you make a successful run each turn, draw &^ card.\the first time you make an unsuccessful run each turn, take &^ tag.|12&^^|13john masanori|
+
+|1resource|2connection|3neutral|4&|5|6true|7|8|9|10|11you cannot use @ more than once per turn.\{O}: place {C}^^^ from the bank on @.\{O}: take all credits from @.|12&^^|13kati jones|
+
+|1event|2|3anarch|4&^|5|6|7|8|9|10|11as an additional cost to play this event, trash an installed resource.\gain {C}^^^^^^^.|12&^^|13isolation|
+
+|1hardware|2console|3anarch|4&^^|5|6true|7|8|9|10|11+{M}^\the trash cost of each corp card is lowered by &^.\the first time each turn you trash a corp card, gain {C}^.\limit &^ console per player.|12&^^^^|13demolisher|
+
+|1program|2virus|3anarch|4&^^^^|5|6|7|8&^|9|10|11install only on a piece of ice.\host ice has -&^ strength for each hosted virus counter.\when you encounter host ice, if its strength is & or less, trash it. otherwise, place &^ virus counter on this program.|12&^^|13chisel|
+
+|1program|2|3anarch|4&^^^|5|6|7|8&^^|9|10|11{O}: run r&d. if successful, instead of breaching r&d, reveal the top &^^^ cards of r&d. trash &^ of the revealed cards. use this ability only once per turn.|12&^^^^|13stargate|
+
+|1program|2icebreaker, decoder|3anarch|4&^^|5&^|6|7|8&^|9|10|11{C}X: break x code gate subroutines. use this ability only once per run.\{C}^: break &^ code gate subroutine. use this ability only if you have &^^^ or more installed virtual resources.\{C}^: +&^ strength.|12&^^|13utae|
+
+|1resource|2|3anarch|4&^^^^^|5|6true|7|8|9|10|11when your turn begins, remove this resource from the game. choose a server protected by ice. the corp may trash &^ piece of ice protecting that server. if they do not, the first time this turn you breach either r&d or hq, access &^^ additional cards.|12&^^|13climactic showdown|
+
+|1resource|2companion, virtual|3anarch|4&^|5|6true|7|8|9|10|11when your turn begins or you steal an agenda, place {C}^ on this resource.\whenever you make a successful run, you may spend hosted credits for the remainder of that run.\when your turn ends, if there are &^^^ or more hosted credits, you must pay {C}^ or trash this resource.|12&|13fencer fueno|
+
+|1resource|2connection, seedy|3anarch|4&^^^^^|5|6true|7|8|9|10|11the first time each turn you install a virus program, place &^^ virus counters on this resource.\when your turn begins, you may remove any &^^ virus counters from your installed cards. if you do, draw &^^ cards unless the corp trashes the top card of r&d.|12&^^^^|13the nihilist|
+
+|1resource|2stealth, companion, virtual|3anarch|4&^^^|5|6true|7|8|9|10|11when your turn begins or you steal an agenda, place {C}^ on this resource.\spend hosted credits to use programs during runs.\when your turn ends, if there are &^^^ or more hosted credits, you must take &^ tag or trash this resource.|12&^|13trickster taka|
+
+|1identity|2cyborg|3criminal|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first job resource, connection resource, or piece of hardware you install each turn costs {C}^ less to install.|12|13az mccaffrey: mechanical prodigy|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run any server. when that run ends, if it was unsuccessful, you may run that server again, ignoring any additional costs to run. during the second run, when you encounter the last ice you encountered in the first run, bypass it.|12&^^|13always have a backup plan|
+
+|1event|2|3criminal|4&^^|5|6|7|8|9|10|11look at the top &^^ cards of your stack. you may add &^ of those cards to the bottom of your stack. draw &^^ cards.|12&|13blueberry!™ diesel|
+
+|1hardware|2|3criminal|4&^|5|6|7|8|9|10|11you cannot use this hardware during the corp's turn.\{T}: jack out.\{T}: remove &^ tag.\{T}: reduce the base trace strength of a trace to &.|12&^|13flip switch|
+
+|1hardware|2|3criminal|4&^^|5|6true|7|8|9|10|11remove this hardware from the game: prevent a corp card ability from ending the run. use this ability only if you made a successful run on hq this turn.|12&^|13lucky charm|
+
+|1hardware|2console|3criminal|4&^^^^|5|6true|7|8|9|10|11+{M}^.\the first time each turn you install a piece of hardware, draw &^ card.\whenever a run begins, you may install a piece of hardware, paying {C}^ more.\limit &^ console per player.|12&^^|13masterwork (v37)|
+
+|1program|2icebreaker, killer|3criminal|4&^^^^|5&^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^: +&^ strength.\the first time each turn this program fully breaks a piece of ice, gain {C}^^.|12&^^^|13bukhgalter|
+
+|1resource|2connection|3criminal|4&^^^|5|6true|7|8|9|10|11the first time each run you encounter a piece of ice, place &^ power counter on this resource.\{T}: derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. take &^ tag.|12&^^|13"baklan" bochkin|
+
+|1resource|2connection, ritzy|3criminal|4&^^^^^|5|6true|7|8|9|10|11when your discard phase ends, if you installed this resource this turn, draw &^^^^ cards.\the first time each turn you would draw any number of cards, increase the number of cards you will draw by &^. when you draw those cards, if you drew at least &^^, add &^ of them to the bottom of your stack.|12&^^^^|13the class act|
+
+|1identity|2natural|3shaper|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11when your turn ends, if you have the same number of cards in your grip as the corp has in hq, you may draw &^ card.|12|13lat: ethical freelancer|
+
+|1event|2priority|3shaper|4&^^^^|5|6|7|8|9|10|11play only as your first {O}.\whenever you install a card with a printed install cost of &^ or greater this turn, draw &^ card or gain {C}^.|12&|13in the groove|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run r&d. if successful, instead of breaching r&d, choose a number greater than &. for each installed card you have with a printed install cost matching that number, reveal &^ card from the top of r&d (max &^^^^^^). access &^ of the revealed cards, then the corp shuffles r&d.|12&^^^|13khusyuk|
+
+|1event|2job|3shaper|4&^|5|6|7|8|9|10|11as an additional cost to play this event, trash an installed program.\gain {C}^^^^ and draw &^^ cards.|12&^|13spec work|
+
+|1hardware|2console|3shaper|4&^^|5|6true|7|8|9|10|11+{M}^^\you have +&^ maximum hand size.\when your turn ends, if you and the corp have the same number of credits, you may gain {C}^^.\limit &^ console per player.|12&^^^^|13supercorridor|
+
+|1program|2icebreaker, fracter|3shaper|4&^^|5&^|6|7|8&^|9|10|11when you install this program, it gets +&^^^ strength for the remainder of the turn.\{C}^: break &^ barrier subroutine.\{C}^^: +&^^ strength.|12&^^|13gauss|
+
+|1program|2virus|3shaper|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\hosted virus counter: choose an ice subtype. the ice you are encountering gains that subtype for the remainder of the encounter. use this ability only once per turn.|12&^|13pelangi|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11when your turn begins, gain {C}^.|12&^^|13rezeki|
+
+|1resource|2connection|3shaper|4&^^^^^|5|6true|7|8|9|10|11use each ability on this resource only once per turn.\{O}: gain {C}^^.\{O}: install a program or piece of hardware, paying {C}^ less.|12&^^^^|13the artist|
+
+|1event|2run|3neutral|4&^|5|6|7|8|9|10|11while you are resolving this event, each player's identity loses all abilities.\run any server. when that run ends, you may shuffle this event into your stack.|12&^|13direct access|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11add an installed program or piece of hardware to your grip. if you do, you may install a program or piece of hardware, paying {C}X less. x is equal to the printed install cost of the uninstalled card.|12&|13rejig|
+
+|1resource|2connection|3neutral|4&^|5|6true|7|8|9|10|11whenever you make a successful run, you may trash this resource to name an agenda. the next time this run you access a copy of the named agenda, steal it, ignoring all costs. |12&^^|13whistleblower|
+
+|1identity|2natural|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11when your turn ends, if you accessed at least &^ card this turn, gain {C}^^ and flip this identity.\flip side:\when your turn begins, draw &^ card and lose {C}^.\when your turn ends, if you did not access at least &^ card this turn, flip this identity.|12|13hoshiko shiro: untold protagonist|
+
+|1event|2|3anarch|4&^^^|5|6|7|8|9|10|11as an additional cost to play this event, trash &^^^ cards from your grip.\draw &^^^ cards and gain {C}^^^.|12&|13moshing|
+
+|1hardware|2chip|3anarch|4&^^|5|6true|7|8|9|10|11whenever you encounter a piece of ice, you may remove this hardware from the game. if you do, that ice gets -&^^^^^^ strength for the remainder of the run.|12&^|13devil charm|
+
+|1hardware|2chip|3anarch|4&^^|5|6|7|8|9|10|11{T}: set aside the top &^^^^^^ cards of your stack. you may install &^ program or virtual resource from among the set aside cards, paying {C}^^ less. shuffle &^^^ of the remaining cards into your stack, then remove the rest from the game.|12&|13gachapon|
+
+|1hardware|2console, companion|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^^\the first time each turn you spend credits from or install a companion, gain {C}^.\limit &^ console per player.|12&^^^|13keiko|
+
+|1program|2icebreaker, killer|3anarch|4&^^|5&|6|7|8&^|9|10|11{C}^^: break any number of sentry subroutines.\{C}: break &^ sentry subroutine. use this ability only if you have &^^^ or more installed virtual resources.\{C}^^^: +&^^^ strength.|12&^^^^|13odore|
+
+|1resource|2companion, virtual|3anarch|4&^^|5|6true|7|8|9|10|11when your turn begins or you steal an agenda, place {C}^ on this resource.\spend hosted credits to play events.\when your turn ends, if there are &^^^ or more hosted credits, you must trash &^ card from your grip at random or trash this resource.|12&^|13mystic maemi|
+
+|1resource|2companion, virtual|3anarch|4&^^^|5|6true|7|8|9|10|11when your turn begins or you steal an agenda, place {C}^ on this resource.\spend hosted credits to install non-connection cards.\when your turn ends, if there are &^^^ or more hosted credits, you must trash &^ of your installed cards.|12&^|13paladin poemu|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run a server protected by ice. when that run ends, gain {C}^^^^^^, plus {C}^ for each piece of ice you passed during that run.|12&^^^|13bravado|
+
+|1hardware|2|3criminal|4&^^|5|6true|7|8|9|10|11when you install this hardware, choose an installed piece of ice. use this hardware only during encounters with that ice.\{T}: break up to &^^ subroutines. when this run ends, if it is successful, you may shuffle a copy of @ from your heap into your stack.|12&^^|13boomerang|
+
+|1hardware|2|3criminal|4&^^^|5|6true|7|8|9|10|11use this hardware only by spending credits from stealth cards.\whenever you make a successful run on hq, you may pay {C}^ to access &^ additional card when you breach hq.\whenever you make a successful run on r&d, you may pay {C}^^ to access &^ additional card when you breach r&d.|12&^^|13mu safecracker|
+
+|1hardware|2chip|3criminal|4&^^^|5|6true|7|8|9|10|11the first time each turn a run begins, you may look at the top &^^ cards of your stack.\{C}^: reveal the top card of your stack. you may install that card if it is a program or piece of hardware. use this ability only once per turn.|12&^|13prognostic q-loop|
+
+|1hardware|2console, vehicle|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\the first time each turn you play a run event, gain {O}.\limit &^ console per player.|12&^^|13swift|
+
+|1program|2icebreaker, killer|3criminal|4&^^^|5&^^|6|7|8&^|9|10|11whenever you encounter a sentry, you may pay {C}^^ to bypass it. use this ability only once per turn and only by spending credits from stealth cards.\{C}^: break up to &^^ sentry subroutines.\{C}^: +&^^ strength. use this ability only by spending a credit from a stealth card.|12&^^^^|13afterimage|
+
+|1program|2icebreaker, fracter|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^^: break up to &^^ barrier subroutines.\{C}^^: +&^^ strength.\the first time each turn this program fully breaks a piece of ice, gain {C}^.|12&^^^^^|13makler|
+
+|1resource|2stealth, virtual|3criminal|4&^^|5|6|7|8|9|10|11this card costs {C}^^ less to install if you made a successful run on hq this turn.\when you install this resource, load {C}^^^^ onto it. when it is empty, trash it.\spend hosted credits during runs.|12&^^|13penumbral toolkit|
+
+|1resource|2job, location|3criminal|4&^^^^|5|6true|7|8|9|10|11the first time each turn you use hardware during a run, place &^ power counter on this resource.\{O}, remove this resource from the game: shuffle up to x cards with {T} abilities from your heap into your stack. x is double the number of hosted power counters.|12&^|13the back|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11search your heap for up to &^^^^^ cards with different names. shuffle those cards into your stack. remove this card from the game instead of trashing it.|12&^^|13harmony ar therapy|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^.\the first time each turn an event is trashed , draw &^ card.\limit &^ console per player.|12&^^^|13aniccam|
+
+|1hardware|2chip|3shaper|4&^^|5|6|7|8|9|10|11if no installed programs have been trashed this turn, you must trash &^ installed program as an additional cost to use this hardware.\{T}: install &^ program from your heap, paying {C}^^^ less.|12&^|13simulchip|
+
+|1program|2virus|3shaper|4&^^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\whenever you make a successful run on a central server, you may remove &^ hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. use this ability only once per turn.|12&^^^|13cordyceps|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11when you install this program, for the remainder of the turn it gains "{C}: break &^ code gate subroutine."\{C}^^: break up to &^^ code gate subroutines.\{C}^: +&^ strength.|12&^^|13euler|
+
+|1program|2stealth|3shaper|4&^^|5|6|7|8&^|9|10|11{R}^\spend hosted credits to use hardware and programs.|12&^|13mantle|
+
+|1program|2icebreaker, decoder, fracter|3shaper|4&^^|5&^^|6|7|8&^|9|10|11when you install this program, for the remainder of the turn it gains "{C}^: break &^ barrier subroutine."\{C}^: break &^ code gate subroutine.\{C}^: +&^^^ strength. use this ability only by spending a credit from a stealth card.|12&^^^|13penrose|
+
+|1program|2|3shaper|4&^^^|5|6|7|8&^^|9|10|11{C}^^, {T}: search your stack for a program. install it.|12&|13self-modifying code|
+
+|1resource|2connection, virtual|3shaper|4&^^|5|6true|7|8|9|10|11+{L}^\whenever you install a non-ai icebreaker, that icebreaker gets +&^^ strength for the remainder of the turn.|12&^^|13cybertrooper talut|
+
+|1resource|2location, seedy|3shaper|4&^^^^|5|6true|7|8|9|10|11{O}: host &^ program or piece of hardware from your grip on this resource.\{C}^: install &^ hosted card. the first card you install this way during each of your turns costs {C}^ less to install for each unique  connection you have installed.|12&^|13paule's café|
+
+|1hardware|2|3neutral|4&^|5|6true|7|8|9|10|11the first time each turn &^ or more cards are trashed from your grip or stack, you may add &^ of those cards to the bottom of your stack.\remove this hardware from the game: add &^ card from your heap to the top of your stack.|12&^^^|13buffer drive|
+
+|1resource|2|3neutral|4&|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^ onto it. when it is empty, trash it.\when your turn begins, take {C}^^ from this resource.|12&^^^|13daily casts|
+
+|1resource|2virtual|3neutral|4&|5|6true|7|8|9|10|11the first time each turn you make a successful run, draw &^ card. if you have at least {L}^^ or your identity is digital, also gain {C}^.|12&^^^|13dreamnet|
+
+|1resource|2companion, virtual|3anarch|4&^^|5|6true|7|8|9|10|11when your turn begins or you steal an agenda, place {C}^ on this resource.\spend hosted credits to play events.\when your turn ends, if there are &^^^ or more hosted credits, you must trash &^ card from your grip at random or trash this resource.|12&^|13mystic maemi|
+
+|1hardware|2console, vehicle|3criminal|4&^^|5|6true|7|8|9|10|11+{M}^\the first time each turn you play a run event, gain {O}.\limit &^ console per player.|12&^^|13swift|
+
+|1resource|2connection, virtual|3shaper|4&^^|5|6true|7|8|9|10|11+{L}^\whenever you install a non-ai icebreaker, that icebreaker gets +&^^ strength for the remainder of the turn.|12&^^|13cybertrooper talut|
+
+|1event|2|3anarch|4&^^|5|6|7|8|9|10|11trash the top &^^^ cards of your stack. shuffle &^^^ cards from your heap into your stack. draw &^ card. remove this event from the game instead of trashing it.|12&|13labor rights|
+
+|1resource|2seedy, virtual|3criminal|4&^^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^ onto it. when it is empty, trash it and draw &^ card.\when your turn begins, take {C}^ from this resource.\when your turn ends, if you made at least &^^^ successful runs this turn and this card is in your heap, you may install it, ignoring all costs.|12&|13crowdfunding|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11whenever you make a successful run on r&d, place &^ virus counter on this program.\whenever you breach r&d, choose a number less than the number of hosted virus counters. access that many additional cards.|12&^^^|13medium|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11install @ only on a rezzed piece of ice.\host ice has -&^ strength for each virus counter on @ and is trashed if its strength is & or less.\when your turn begins, place &^ virus counter on @.|12&^^|13parasite|
+
+|1hardware|2mod|3criminal|4&^^|5|6|7|8|9|10|11whenever you break a subroutine on a piece of ice, you may pay {C}^ to break &^ subroutine on that ice.|12&^^|13e3 feedback implants|
+
+|1program|2virus|3criminal|4&^|5|6|7|8&^|9|10|11place &^^^ virus counters on @ when it is installed.\hosted virus counter: gain {C}^.|12&^|13cache|
+
+|1event|2run|3shaper|4&^^^|5|6|7|8|9|10|11run r&d. if successful, instead of breaching r&d, you may look at the top &^^^^^ cards of r&d and arrange them in any order.|12&|13indexing|
+
+|1program|2icebreaker, fracter|3shaper|4&^^^|5&^^^|6|7|8&^|9|10|11when you install this program, place &^^^^ power counters on it.\hosted power counter: break up to &^^ barrier subroutines.\{C}^: +&^ strength.|12&^^^^|13cerberus "lady" h1|
+
+|1event|2double|3neutral|4&^^|5|6|7|8|9|10|11as an additional cost to play this event, spend {O}.\gain {C}^^^^^^^^^.|12&^^^|13lucky find|
+
+|1hardware|2gear|3neutral|4&|5|6|7|8|9|10|11{R}^ \you can spend hosted credits to play events.|12&^^|13prepaid voicepad|
+
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11the first time each turn you trash a card you are accessing, gain {C}^ and draw &^ card.|12|13rené "loup" arcemont: party animal|
+
+|1event|2|3anarch|4&^|5|6|7|8|9|10|11resolve &^ of the following of the corp's choice: =gain {C}^^^^^^. =draw &^^^^ cards.|12&^^|13wildcat strike|
+
+|1hardware|2console|3anarch|4&^^^|5|6true|7|8|9|10|11+{M}^\trash &^^ cards from your grip: trash the card you are accessing. use this ability only once per turn.\limit &^ console per player.|12&^^^^|13carnivore|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11install only on a piece of ice.\when you install this program and when your turn begins, place &^ virus counter on this program.\hosted virus counter: break &^ subroutine on host ice.|12&^^|13botulus|
+
+|1program|2icebreaker, decoder|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}^: break up to &^^ code gate subroutines.\{C}^^^: +&^ strength.|12&^^^^|13buzzsaw|
+
+|1program|2icebreaker, fracter|3anarch|4&^^|5&^^^|6|7|8&^|9|10|11{C}^: break up to &^^ barrier subroutines.\{C}^^: +&^ strength.|12&^^^|13cleaver|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11when you install this program and when your turn begins, place &^ virus counter on this program.\{O}, {T}: gain {C}^^ for each hosted virus counter.|12&^|13fermenter|
+
+|1program|2virus|3anarch|4&^|5|6|7|8&^|9|10|11whenever you make a successful run on a central server, place &^ virus counter on this program.\hosted virus counter: the ice you are encountering gets -&^ strength for the remainder of this encounter.|12&^|13leech|
+
+|1resource|2virtual|3anarch|4&^^^|5|6true|7|8|9|10|11whenever you install a virus program, you may place &^ virus counter on it.|12&^|13cookbook|
+
+|1identity|2cyborg|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11whenever a run on hq or r&d ends, you may gain {C}^ for each time you accessed a card during that run. use this ability only once per turn.|12|13zahya sadeghi: versatile smuggler|
+
+|1event|2|3criminal|4&^^^|5|6|7|8|9|10|11search your stack for &^ icebreaker program and reveal it.  if you made a successful run this turn, you may install it. if you do not, add it to your grip.|12&|13mutual favor|
+
+|1event|2run|3criminal|4&^|5|6|7|8|9|10|11run any server. during that run, the rez cost of each piece of ice is increased by {C}^^^.|12&^|13tread lightly|
+
+|1hardware|2|3criminal|4&^^|5|6true|7|8|9|10|11the first time each turn you breach hq, access &^ additional card.|12&^^|13docklands pass|
+
+|1hardware|2console|3criminal|4&^^^|5|6true|7|8|9|10|11+{M}^\whenever you make a successful run, place {C}^ on this hardware.\{O}: place {C}^ on this hardware, then take all credits from it.\limit &^ console per player.|12&^^^|13pennyshaver|
+
+|1program|2icebreaker, killer|3criminal|4&^^|5&^^|6|7|8&^|9|10|11if you made a successful run this turn, this program costs {C}^^ less to install.\{C}^: break &^ sentry subroutine.\{C}^^: +&^^^ strength.|12&^^^^^|13carmen|
+
+|1program|2icebreaker, fracter|3criminal|4&^|5&^|6|7|8&^|9|10|11{C}^^: break &^ barrier subroutine. if you made a successful run this turn, this ability costs {C}^ less to use.\{C}^: +&^ strength.|12&|13marjanah|
+
+|1program|2virus|3criminal|4&^^^|5|6|7|8&^|9|10|11install only on a piece of ice.\when you install this program and when your turn begins, place &^ virus counter on this program. then, if there are &^^^ or more hosted virus counters, derez host ice.|12&^^|13tranquilizer|
+
+|1resource|2job|3criminal|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^ onto it. when it is empty, trash it.\{O}: run a central server you have not run this turn. if successful, take {C}^^^ from this resource.|12&^^^^^|13red team|
+
+|1identity|2natural|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1040|11whenever an agenda is scored or stolen, you may swap &^^ installed pieces of ice.|12|13tāo salonga: telepresence magician|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11gain {C}^^^^^. if you have any {O} remaining, lose {O}.|12&^|13creative commission|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11draw &^^^^ cards. if you have any {O} remaining, lose {O}.|12&^|13vrcation|
+
+|1hardware|2|3shaper|4&^^|5|6|7|8|9|10|11+{M}^\the first program you install each turn costs {C}^ less to install.|12&^^|13dzmz optimizer|
+
+|1hardware|2console|3shaper|4&^^^|5|6true|7|8|9|10|11+{M}^\whenever an agenda is scored or stolen, gain {C}^. then, you may install &^ card from your grip.\limit &^ console per player.|12&^^|13pantograph|
+
+|1program|2virus|3shaper|4&^^^^|5|6|7|8&^|9|10|11whenever a successful run on r&d ends, you may place &^ virus counter on this program.\{O}: run r&d. if successful, access x additional cards when you breach r&d. x is equal to the number of hosted virus counters.|12&^^^^|13conduit|
+
+|1program|2icebreaker, killer|3shaper|4&^|5&|6|7|8&^|9|10|11this program gets +&^ strength for each installed icebreaker .\{C}^: break &^ sentry subroutine.\{C}^^^: +&^^ strength.|12&^^^|13echelon|
+
+|1program|2icebreaker, decoder|3shaper|4&^^|5&^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength for each installed icebreaker .|12&^^^|13unity|
+
+|1resource|2job|3shaper|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^^^^ onto it. when it is empty, trash it.\{O}: take {C}^^^ from this resource. use this ability only once per turn.|12&^|13telework contract|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11run hq or r&d. if successful, draw &^ card and when you breach the attacked server, access &^ additional card.|12&|13jailbreak|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11place {C}^^^^^ on this event, then run any server. you can spend hosted credits during that run.|12&^|13overclock|
+
+|1event|2|3neutral|4&|5|6|7|8|9|10|11gain {C}^^^^^^^^^.|12&^^^^^|13sure gamble|
+
+|1hardware|2chip|3neutral|4&|5|6|7|8|9|10|11+{M}^\you get +&^ maximum hand size.|12&^^|13t400 memory diamond|
+
+|1program|2icebreaker, ai|3neutral|4&|5&^|6|7|8&^^|9|10|11{C}^: break &^ subroutine. when this run ends, trash this program.\{C}^: +&^ strength.|12&^|13mayfly|
+
+|1resource|2connection|3neutral|4&|5|6|7|8|9|10|11{O}: place {C}^^^ on this resource.\when your turn begins, take {C}^ from this resource.|12&|13smartware distributor|
+
+|1resource|2genetics|3neutral|4&|5|6true|7|8|9|10|11the first time each turn you take the basic action to draw &^ card, instead draw &^^ cards.|12&^^^|13verbal plasticity|
+
+|1identity|2natural|3neutral|4&|5|6|7&|8|9|1030|11|12|13the catalyst: convention breaker|
+
+|1identity|2g-mod|3anarch|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11{C}: break &^ barrier subroutine. use this ability only once per turn.|12|13quetzal: free spirit|
+
+|1identity|2cyborg, g-mod|3anarch|4&|5|6|7&^|8|9&^^^^^^^^^^^^^^^|1045|11the first piece of ice the corp rezzes each turn costs {C}^ more to rez.|12|13reina roja: freedom fighter|
+
+|1event|2sabotage|3anarch|4&^^|5|6|7|8|9|10|11play only if you made a successful run this turn.\trash &^ unrezzed piece of ice you passed during your last run.|12&|13en passant|
+
+|1event|2run|3anarch|4&^^|5|6|7|8|9|10|11run archives. if successful, instead of breaching archives, you may install &^ program from your heap, ignoring all costs.|12&^^^|13retrieval run|
+
+|1program|2virus|3anarch|4&^^|5|6|7|8&^|9|10|11the corp cannot score an agenda during the same turn they installed that agenda.\when the corp purges virus counters, trash this program.|12&^^|13clot|
+
+|1program|2icebreaker, fracter|3anarch|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ barrier subroutine.\{C}^: +&^ strength.|12&^^|13corroder|
+
+|1program|2virus|3anarch|4&^^^|5|6|7|8&^|9|10|11when you install this program, place &^^ virus counters on it.\hosted virus counter: trash the card you are accessing. use this ability only once per turn.|12&^^|13imp|
+
+|1program|2icebreaker, killer|3anarch|4&^|5&^^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.|12&^^^|13mimic|
+
+|1resource|2virtual|3anarch|4&^^^|5|6true|7|8|9|10|11while you are encountering a piece of ice, it gets -&^ strength.|12&^^^|13ice carver|
+
+|1resource|2|3anarch|4&^^|5|6|7|8|9|10|11when you install this resource, load {C}^^^^^^ onto it. when it is empty, trash it.\{O}: take {C}^^^^ from this resource.|12&^^^^^^|13liberated account|
+
+|1resource|2connection, seedy|3anarch|4&^|5|6|7|8|9|10|11{R}^^ \you can spend hosted credits to pay trash costs.|12&^^|13scrubber|
+
+|1resource|2virtual|3anarch|4&^^|5|6true|7|8|9|10|11the rez cost of each piece of ice is increased by {C}^.|12&^^^|13xanadu|
+
+|1identity|2clone|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^^^|1045|11the first time each turn you play a run event, gain {C}^.|12|13ken "express" tenma: disappeared clone|
+
+|1identity|2g-mod|3criminal|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11the first time each turn you make a successful run on hq, you may choose &^^ cards in your heap. if you do, the corp removes &^ of those cards from the game, then you add the other card to your grip.|12|13steve cambridge: master grifter|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11install &^ resource from your grip, paying {C}^^^ less.|12&|13career fair|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11play only if you made a successful run on hq this turn.\derez &^ installed piece of ice.|12&|13emergency shutdown|
+
+|1event|2sabotage|3criminal|4&^^|5|6|7|8|9|10|11choose &^ unrezzed piece of ice. the corp may rez that ice. if they do not, they trash it.|12&^|13forged activation orders|
+
+|1event|2run|3criminal|4&^^^|5|6|7|8|9|10|11run any server. the first time this run you encounter a piece of ice, bypass it.|12&^^|13inside job|
+
+|1event|2run|3criminal|4&^^|5|6|7|8|9|10|11run hq. if successful, access &^^ additional cards when you breach hq.|12&^^|13legwork|
+
+|1event|2|3criminal|4&^|5|6|7|8|9|10|11remove &^ tag. then, you may pay {C}^ to add this event to your grip.|12&|13networking|
+
+|1program|2icebreaker, decoder|3criminal|4&^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^^: +&^^ strength.\{T}: bypass the code gate you are encountering.|12&^^^^|13abagnale|
+
+|1program|2icebreaker, killer|3criminal|4&^|5&^^|6|7|8&^|9|10|11{C}^: break &^ sentry subroutine.\{C}^^: +&^ strength.\when you install this program, choose &^ installed piece of ice.\whenever you encounter the chosen ice, you may pay {C}^ for each subroutine it has. if you do, bypass that ice.|12&^^^^^^^^^|13femme fatale|
+
+|1program|2|3criminal|4&^^^|5|6|7|8&^^|9|10|11{O}: run archives. if that run would be declared successful, change the attacked server to hq for the remainder of that run.|12&^^^^|13sneakdoor beta|
+
+|1resource|2job|3criminal|4&^^^|5|6|7|8|9|10|11when your turn begins, you may choose a server. the first time this turn you make a successful run on that server, instead of breaching it, gain {C}^^.|12&|13security testing|
+
+|1identity|2natural|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^^^^^^|1045|11before drawing your starting hand, set aside the top &^^^^^^ cards of your stack facedown.  shuffle &^^ of those cards into your stack.\{O}: add &^ card set aside with this identity to your grip.|12|13ayla "bios" rahim: simulant specialist|
+
+|1identity|2cyborg|3shaper|4&|5|6|7&|8|9&^^^^^^^^^^|1045|11the first time each turn you encounter a piece of ice, it gains code gate for the remainder of this run.|12|13rielle "kit" peddler: transhuman|
+
+|1event|2|3shaper|4&^^|5|6|7|8|9|10|11draw &^^^ cards.|12&|13diesel|
+
+|1event|2|3shaper|4&^^^|5|6|7|8|9|10|11search either your stack or your heap for &^ program.  install that program, ignoring all costs. when your turn ends, if that program has not been uninstalled, add it to the top of your stack.|12&^^^|13test run|
+
+|1event|2run|3shaper|4&^^|5|6|7|8|9|10|11run r&d. if successful, access &^^ additional cards when you breach r&d.|12&^^|13the maker's eye|
+
+|1program|2icebreaker, ai|3shaper|4&^^^|5&|6|7|8&^|9|10|11when you install this program, you may pay {C}X to place x power counters on it.\this program gets +&^ strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\{C}^: break &^ subroutine.|12&^^^|13atman|
+
+|1program|2icebreaker|3shaper|4&^^^|5&^^^|6|7|8&^|9|10|11when you install this program, choose barrier, code gate, or sentry.\when your discard phase ends, add this program to your grip.\{C}^: break &^ subroutine on a piece of ice that has the chosen subtype.|12&^^|13chameleon|
+
+|1program|2|3shaper|4&^^|5|6|7|8&^|9|10|11install only on a rezzed piece of ice.\host ice gains barrier, code gate, and sentry.|12&^^|13egret|
+
+|1program|2icebreaker, decoder|3shaper|4&^^^|5&^^|6|7|8&^|9|10|11{C}^: break &^ code gate subroutine.\{C}^: +&^ strength for the remainder of this run.|12&^^^^|13gordian blade|
+
+|1program|2|3shaper|4&^|5|6|7|8&^|9|10|11{R}^^ \you can spend hosted credits to pay trash costs of assets.|12&|13paricia|
+
+|1resource|2connection, location|3shaper|4&^^|5|6true|7|8|9|10|11when your turn begins, you may trash &^ of your other installed cards. if you do, gain {C}^^^.|12&^|13aesop's pawnshop|
+
+|1resource|2connection|3shaper|4&^^|5|6|7|8|9|10|11{O}: gain {C}^ and draw &^ card.|12&^^^^^|13professional contacts|
+
+|1event|2run|3neutral|4&|5|6|7|8|9|10|11run any server. when that run ends, if it was successful, gain {C}^^^^^.|12&^^|13dirty laundry|
+
+|1hardware|2gear|3neutral|4&|5|6|7|8|9|10|11{R}^ \you can spend hosted credits to play events.|12&^^|13prepaid voicepad|
+
+|1resource|2location, ritzy|3neutral|4&|5|6true|7|8|9|10|11when you install this resource, load &^^^ power counters onto it. when it is empty, trash it.\when your turn begins, remove &^ hosted power counter and draw &^^ cards.|12&^^^^|13earthrise hotel|
+
