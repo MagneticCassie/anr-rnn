@@ -7,7 +7,7 @@ That project has documentation for most of the code's features. This readme will
 
 Most of the original code is untouched. The biggest changes I've made to the lua scripts are updating sample_hs_v3.lua to have it recognize Netrunner field names instead of Magic ones (the script has been renamed to anr_sample.lua), and removing the "randomize mana" and "randomize fields" options from the training script.
 
-I've also added an encoder which can process netrunner card data so that it is readable by the training script, and a decoder which can process the rnn's output and save it as a file that can be opened in Magic Set Editor using my Netrunner templates. Sampling can now be handled by the sample.py script which runs the sampler and then hands it off to the decoder automatically.
+I've also added an encoder which can process netrunner card data so that it is readable by the training script, and a decoder which can process the rnn's output and save it as a file that can be opened in Magic Set Editor using my [Netrunner templates](https://github.com/MagneticCassie/Netrunner-Templates-For-MSE). Sampling can now be handled by the sample.py script which runs the sampler and then hands it off to the decoder automatically.
 
 ## NEW STUFF
 
